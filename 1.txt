@@ -1,0 +1,203 @@
+1 Platform Ecosystem
+Foodora is a digital marketplace that leverages the power of online platforms and mobile technology
+to connect customers with local restaurants. Through its platform, customers can browse menus,
+place orders, and pay for their meals, while restaurants can receive orders and manage their
+inventory and delivery schedules. The platform also employs a fleet of delivery drivers, who are
+hired as independent contractors, to pick up orders from restaurants and deliver them to customers.
+As a transaction-based platform ecosystem, Foodora generates revenue by charging fees to both
+restaurants and customers. Restaurants typically pay a commission on each order they receive
+through the platform, while customers may be charged a delivery fee or a service fee. The platform
+also offers subscription-based services and other value-added features to its customers and partners.
+The Foodora platform ecosystem complies with the definitions of a platform ecosystem in that it
+serves as a foundation for interactions and transactions between different stakeholders, including
+customers, restaurants, and delivery drivers. The platform enables these stakeholders to exchange
+value, in the form of food orders, through a shared digital marketplace.
+The Foodora platform ecosystem is interesting to study for several reasons. First, it represents a
+disruptive force in the food delivery industry, which has traditionally relied on phone orders and
+in-house delivery services. By providing a digital marketplace for food orders, Foodora has enabled
+restaurants to reach a broader customer base and expand their operations. At the same time, the
+platform has given customers greater choice and convenience in the food ordering process.
+Second, Foodora has faced legal and regulatory challenges related to the status of its delivery
+drivers as independent contractors. In several countries, including Canada and Australia, courts
+and labour regulators have ruled that Foodora drivers are employees and entitled to the rights and
+benefits that come with that status. This has implications not only for Foodora but also for the
+broader gig economy, which relies heavily on independent contractors to deliver services through
+digital platforms.
+Finally, the acquisition of Foodora by Delivery Hero in 2018 highlights the competitive dynamics
+within the food delivery market and the consolidation that is taking place among digital market-
+places. As platform ecosystems continue to grow and evolve, it will be important to study these
+dynamics and their implications for competition, innovation, and regulation in the digital economy.
+Foodora’s platform ecosystem is in the post-dominant design stage of its platform lifecycle. It
+has already gained significant traction among its user base, as evidenced by its large number of
+customers, restaurants, and delivery drivers who participate in the ecosystem. However, there is
+still room for growth and innovation, particularly as the platform expands into new geographic
+markets and introduces new features and services.
+One of the key drivers of Foodora’s growth and success is the network effects that it generates.
+As more customers, restaurants, and delivery drivers join the platform, the value of the ecosystem
+increases for all stakeholders. This is particularly evident in the same-side network effects that
+exist between customers and restaurants. As more customers use the platform to order food, more
+restaurants are incentivized to join in order to capture a share of the growing market. This, in turn,
+makes the platform more valuable to customers by increasing the variety and quality of restaurants
+available. Other-side network effects also exist between customers and delivery drivers, as well as
+between restaurants and delivery drivers.
+2 Actors involved
+Foodora’s platform ecosystem consists of several groups of participants, namely platform owners,
+app developers, consumers, delivery drivers, restaurants and retailers. Each of these participants
+has a unique set of needs and motivations for participating on the platform. As a result, the
+platform has to uniquely appeal to each of the groups in how it aligns with their interests relative
+to the service that is provided.
+1
+2.1 Platform Owners
+Foodora is owned by Delivery Hero, a major online food delivery service based in Germany that
+operates in over 50 countries in Europe, Asia, Latin America and the Middle east. Delivery Hero
+consists of multiple companies with food delivery as their main area of focus. Their goal is to
+expand their market share, find innovative solutions and ultimately increase their profit.
+2.1.1 The interests and engagement of platform owners
+Delivery Hero bought Foodora in 2015 with an interest in being the biggest food delivery in Europe.
+Since Foodora already had a solid foundation with its own infrastructure, such an acquisition
+led Delivery Hero to achieve a much stronger lead in the European delivery market. Since the
+acquisition, Foodora is still run as a separate company, however, the increase in available resources
+from the mother company enables growth and capital to keep innovating and finding new ways to
+be more effective.
+2.1.2 Platform owners influence on the platform ecosystem
+Since Delivery Hero is the owner of Foodora, Foodora is dependant on its owner to invest in its
+technology, business model and how it should operate. Foodora is on their side obligated to report
+to Delivery Hero on how the company is doing and share their profits. Delivery Hero is therefore
+a great force which influences the platform ecosystem through financial support.
+2.2 App developers
+Developers are actors that create, maintain and develop the Foodora application for IOS, Android
+and the web. Developers of the Foodora ecosystem are either consultants hired for the job, or
+in-house developers working directly for Foodora.
+2.2.1 The interests and engagement of app developers
+Developers are necessary in order for Foodora to operate. Developers are in charge of keeping the
+platform online, as well as implementing new features when the company decides to do so. De-
+velopers working for Foodora might be interested in the technology stack that Foodora implements
+and the salary that the job offers. Developers’ interests can vary depending on their personal
+interests as well as the position they have.
+2.2.2 App developers influence on the platform ecosystem
+Developers that are working with the Foodora platform could have a major influence on the
+platform ecosystem, depending on the position that they hold in the company. Developers of-
+ten implement ideas that come from product developers but can often have the right to discuss
+and modify features that seem unrealistic or non-effective. Developers’ influence on the Foodora
+platform is therefore extensive since developers are the backbone of the technology stack.
+App developers are greatly involved in the Platform lifecycle of the Foodora Application, influencing
+both how the application is designed and how it is developed. Developers also lay the foundation
+for how the application is supposed to grow alongside competitors, new technology and the current
+state of the application [Gawer 2018]. Considering the s-curve model and the maturity of the
+technology and food delivery market, It is clear that Foodora is on a rise with new features being
+constantly pushed to customers with new designs and trends kept in mind.
+2
+2.3 Consumers
+Users (or consumers) are actors that consume the platform’s value proposition [Tiwana 2014].
+Users of Foodora utilise the platform in order to buy food or grocery items from the different
+restaurants or retailers that operate on the platform.
+2.3.1 The interests and engagement of consumers
+Foodora appeals to consumers by simplifying the process of browsing, purchasing and delivering
+food straight to the consumers’ desired locations. This reduces the time and effort of having to
+research and seek out both restaurant and dish, as well as having to physically pick up the food
+at the restaurant. As a result, the platform appeals to people who wants to save time and energy
+while making food choices.
+Using Foodora’s website or mobile application, customers can discover which restaurants are near
+them, place their food orders, and pay electronically. The order is then cooked by the restaurant
+and prepared for either pick-up or delivery. If delivery is chosen, the order is picked up by one of
+Foodora’s own delivery drivers and delivered directly to the customer’s chosen location. If pick-
+up is selected then Foodora is only used as an interface for ordering and payment between the
+restaurant and the user.
+Users are limited to ordering and being delivered food within a restaurant’s opening hours, however,
+they can always browse the different selections and place orders for delivery up to two days in
+advance. Restaurants can be sorted by recommended, distance or fastest delivery. Furthermore,
+the user can filter restaurants based on the type of cuisine or dietary preferences. The user can
+also filter based on economic factors such as price point, deals or free delivery. The use of filters
+makes it quick and easy for the consumer to choose which restaurant to shop from.
+In addition to ordering food from restaurants, users can shop for household and grocery items from
+the Foodora market. The concept is the same as for restaurants with users choosing which items
+to buy in the application and these being delivered to a selected location. It is not possible to
+choose pick-up on an order from Foodora marked. There are also some regular stores available,
+however, this selection is still relatively small in comparison to the selection of restaurants.
+2.3.2 Consumers influence on the platform ecosystem
+The value of platforms acting as marketplaces will primarily be driven by positive network effects.
+Network effects refer to how the technology’s usefulness increases as the installed base of users
+increase. Network effects are either cross- or same-sided, meaning that the value of the platform
+depends on either the number of users in the same user group or in different user groups [Reuver
+et al. 2018].
+Foodora’s primary goal is to help restaurants and consumers locate, interact and exchange value,
+possibly through the use of a delivery driver, in a mutually beneficial manner. As a result, the
+value of Foodora is driven by cross-sided network effects. The value of Foodora for consumers
+increases as the number and selection of restaurants grow. The increase in users on the platform
+will in return boost the motivation for more restaurants to establish themselves on the platform.
+The increase of both mentioned actors will increase the number of delivery drivers needed.
+The cycle of growth that comes from network effects increases the value of the platform for all
+types of actors present. However, in order for the effects to manifest it requires reaching a critical
+mass or tipping point [Tiwana 2014]. For an established site such as Foodora, it can be argued
+that this mass is achieved, but for new platforms, this might be the biggest challenge faced by
+platform owners face.
+3
+2.4 Delivery Drivers
+Delivery drivers are the actors who work for Foodora and deliver the products from the restaurants
+or retailers to the consumer’s selected location. Drivers use their own means of transport, e.g.
+bicycles or cars, to deliver the food and receive orders directly through the Foodora application.
+2.4.1 The interests and engagement of delivery drivers
+The interests of delivery drivers are based heavily on economic factors, as being a delivery driver
+is a job. The main reasons for having the job might vary amount the drivers. Some drivers use
+bikes and combine the job with spending time outdoors, while others drive cars and prefer flexible
+hours and being able to control their own working days. The most important reason for being a
+delivery driver, and the main interest, is the economic compensation given by Foodora. Delivery
+drivers are paid based on how many deliveries they are able to accomplish in their shift.
+2.4.2 Delivery drivers influence on the platform ecosystem
+Delivery drivers are paid based on how many deliveries they are able to accomplish in their shift.
+Because of this, their main interest in the application is that it aids in the delivery of the most
+amount of orders. As a result, the delivery drivers use another Foodora app than the consumers.
+This application should facilitate the drivers in starting their shifts by choosing the kind of vehicle
+they use and what kinds of orders they are able to pick up. The application should then give an
+overview of relevant orders and what time they are ready for pick-up. Furthermore, the drivers
+should be able to mark orders as delivered, or swap orders with other delivery drivers.
+The delivery drivers can directly influence the application by giving constant feedback to Foodora
+as to what they would like incorporated. Changes to this application are most likely not going to
+influence the consumer’s application. Furthermore, drivers play a role in growing the platform’s
+market share by being an actor that influences cross-side network effects as mentioned in section
+2.3.2.
+2.5 Restaurants & Retailers
+While Foodora delivers a service, the restaurants and retailers are the actors who provide the
+products within that service. They utilise the platform in order to sell their goods, without having
+to deal directly with a customer.
+2.5.1 The interests and engagement of restaurants & retailers
+The restaurants and retailers are involved with Foodora because it helps them reach out to a larger
+group of consumers. Restaurants can sell more food without having to have room for more guests
+in their restaurants, and retailers can sell their goods to customers who might not have gone to
+their stores. The restaurants and retailers could have had their own delivery service, but this would
+cost more as they would need to hire couriers, as well as pay for delivery vehicles and the upkeep
+of these. It would also require a system for keeping track of deliveries, which both takes time to
+implement and learn, as well as costs money.
+When a customer has placed an order, the restaurant or retailer in question gets a notification on
+a tablet they have gotten from Foodora, with an app that is different from the apps the consumers
+and delivery drivers use [Foodora 2023]. This notification shows an estimated time of arrival of a
+delivery driver. The restaurant/retailer can choose to accept or refuse the order. If they accept,
+they start preparing the order in time for the delivery driver to pick it up. When the order is
+prepared, they mark the order as done, so that the delivery driver can come and pick it up.
+4
+Foodora handles the payments from the consumers and pays the restaurants and retailers based
+on these payments four times a month, withdrawing the service fee the restaurants and retailers
+have to pay to have their businesses on Foodora.
+2.5.2 Restaurants & retailers influence on the platform ecosystem
+The restaurants and retailers have, as the delivery drivers, their own application where they get
+notifications and can communicate with Foodora. This means that their technical feedback might
+not influence the app the consumers use. However, the restaurants would probably like to have
+their goods shown clearly to the customer. If the restaurant feels like Foodora hides or deprioritises
+its food, it might be persuaded to go over to other food delivery apps.
+Foodora should consider if there are ways to make it more desirable for the restaurants on the
+app to stay on the app, and not go over to other delivery services. This is known as lock-in and
+can be either coercive or value-driven [Tiwana 2014]. Value-driven lock-in is based on making the
+platform increasingly more valuable to its users so that their wants and needs for changing the
+platform are minimized. The restaurants would probably prefer this kind of lock-in, as Foodora
+then would make solutions as easy and cost-effective as possible for the restaurants, rather than
+making high switching costs, which would be the case with coercive lock-in.
+As mentioned in 2.3.2, the value aspect for the restaurants will also increase when the value for
+the customer increase. This is because more consumers will use the platform, and as a result,
+restaurants and retailers can sell to more customers. This is also made possible by having more
+delivery drivers, as mentioned in 2.4.2.
+3 Conclusion
+To conclude, several actors participate in Foodora’s platform ecosystem. Each of these has different
+needs that must be addressed by Foodora in order for the platform to grow and create the most
+amount of value. Especially important is the reliability of cross-side network effects between
+consumers, restaurants and delivery drivers in order to increase market share. All of these actors
+will in one way or another grow with the increase in the number of other actors.

@@ -1,0 +1,241 @@
+1 Introduction
+This delivery will discuss the evolution of Foodora as a platform ecosystem, including a timeline of
+important events and an overview of modular operators performed on the platform. Four events
+that the group finds especially important in shaping the trajectory of the platform will also be
+discussed in detail.
+2 Part I: Timeline of important events
+The following section will detail a timeline of the most important events in the evolution of Foodora
+from its establishment in 2015 until today. Table 1 gives an overview of all important years and a
+description of their corresponding events.
+Table 1: Timeline of Foodora
+Feb 2014 Founted under the name Volo GmbH in Munich
+Apr 2014 Acquired by Rocket Internet and relocated to Berlin
+Sep 2015 Acquired by Delivery Hero. Foodora then merged with Delivery Hero’s
+upscale food delivery brand, Urban Taste, under the name Foodora
+Sep 2015 Acquired a local delivery company in Australia called Suppertime,
+later re-branding it in May of the same year
+2015 Established operations in Sweden, Finland and Norway
+2018 Launched extended areas around the cities where the
+restaurants deliver the food themselves
+Nov 2018 Foodora lost an unfair dismissal case, as the court ruled that its drivers were classed as
+employees rather than contractors.
+2018 Closing business in Australia following legal proceedings and controversy surrounding
+workers.
+2018 Closing business in the Netherlands following unsuccessful attempts to find an interested
+buyer and competition from Takeaway.com.
+2019 Encreased activity with the covid-19 pandemic in the Nordic countries.
+Jun 2020 Data breach at Delivery Hero, where over 700.000 passwords were stolen.
+2020 Closed business in Canada, following drivers’ campaign to unionize and
+longtime unsustainable operations.
+2021 Started a new grocery concept called Foodora market
+Mar 2021 Introduced the first autonomous delivery robot into its fleet in Stockholm
+2022 Acquires Hungry DK and establishes Foodora in Denmark. Continues to
+expand in the Nordic countries,
+with more cities and extended areas.
+Jan 2022 The Norwegian Competition Authority rules that Foodora can not have exclusive
+agreements with restaurants [Brunborg 2022].
+All the listed events have in one way or another shaped Foodora into the platform ecosystem it is
+today. The most important enabling factors include the acquisition by Delivery Hero and following
+rebranding to Foodora, the start-up in the Nordic countries and the boost in activity following
+the Covid-19 pandemic. All these factors lead to an increase in user mass and activity. The more
+users on the platform, the more restaurants become locked in as a result of network effects. This
+is because they are more inclined to take part to gain access to the growing digital market and as
+1
+such reach customers.
+However, the platform also faced some difficulties, namely multiple strikes and the closing of
+business in several countries. The biggest difficulty for Foodora has been to satisfy the demands
+of delivery drivers while also keeping delivery fees low for customers.
+3 Part II: Modular operators
+Modular operators can be described as discrete actions to be performed in modularized platform
+ecosystems in order to incrementally refine and develop the ecosystem [Tiwana 2014]. There are
+five different modular operators, namely split, subtract, substitute, augment and mutate. Foodora
+has made use of augment and mutate in its lifecycle, and the following section will detail how
+Foodora has used these operators to expand the ecosystem.
+3.1 Augment
+The AUGMENT operator consists of adding new subsystems into a platform’s ecosystem and
+directly corresponds with the real option of expanding or scaling a business’ operations. The new
+systems that are added aim to provide new functionality to the platform without having to make
+any changes elsewhere in the system. In addition to adding new capabilities, this operator allows
+for expanding and further developing different subsystems in their own respective time aspect.
+Foodoras’ growth model is based on expanding its platform and services to new locations within
+the countries they operate. This can be viewed as a use case of the augment operator with the new
+subsystems being all systems needed for the expansion. The reason for this is that each new city
+is its own separate entity with a unique set of restaurants. The common denominator is that the
+systems themselves are similar and have corresponding functionality. The inclusion of new cities
+does therefore not require any changes to different subsystems connected to other cities.
+Another use of the augment operator is the inclusion of regular stores and the Foodora marketplace.
+These subsystems allow Foodora to provide new capabilities to each city, attracting a larger user
+mass. These subsystems are also connected to their respective cities, however, the functionality is
+split from the functionality connected to restaurants.
+3.2 Mutate
+The MUTATE operator involves making a copy of the original system in order to create a derivative
+system made for a different application domain. A special case of the MUTATE operator is the
+PORT operator, which involves replicating the functionality of an app in order to make it function
+on a different platform than it originally was implemented for [Tiwana 2014, p.195].
+Foodora has made use of the porting operator given that the ecosystem consists of both a mobile
+application and a webpage. Both systems allow customers to order dishes from restaurants or
+grocery items from Foodora market. The advantage of porting is that the application does not
+need to be entirely redesigned for each of the different target platforms. The process of making
+the apps available on different platforms ensures that as many customers as possible have access
+to Foodora.
+Furthermore, Foodora has apps for both Apple’s iOS and Google’s Android. Developing platform-
+specific applications would limit Foodora’s reach as most people primarily only use one operating
+system. This knowledge was most likely a driver for Foodora making applications for all devices
+when it initially launched. Being able to reach the most amount of people as possible ensured the
+best starting point to be able to grow and expand in the long run. This also ensured a consistent
+user experience across devices from the beginning.
+2
+3.3 Substitute
+The SUBSTITUTE operator enables the replacement of one subsystem (app) with another within
+an ecosystem without affecting the overall system. It requires internal modularity and can facil-
+itate rapid evolution and competition among apps in platform ecosystems. This operator gives
+ecosystems a plug-and-play property, allowing the easy swapping of apps [Tiwana 2014, p.192].
+Foodora has strategically employed the SUBSTITUTE operator to expand its ecosystem by con-
+tinuously improving and diversifying its range of services. By implementing a modular structure,
+Foodora has made it possible to replace or upgrade individual apps within its platform without
+disrupting its overall functionality. This has allowed the platform to adapt and grow, catering to
+the ever-changing demands of customers and industry trends.
+• Enhancing customer experience: Foodora has used the SUBSTITUTE operator to replace
+or upgrade apps responsible for food recommendations, user interfaces, and order tracking.
+This ensures that customers always have access to the most advanced, user-friendly, and
+feature-rich solutions, ultimately elevating their experience.
+• Expanding restaurant offerings: Foodora has leveraged the SUBSTITUTE operator to swap
+out or improve apps that manage relationships with partner restaurants. By doing so, they
+have streamlined onboarding processes, increased efficiency in communication, and enhanced
+data analysis capabilities, all of which contribute to a more diverse and robust selection of
+restaurants for customers to choose from.
+• Improving delivery logistics: Foodora has utilized the SUBSTITUTE operator to optimize
+apps related to delivery management, route optimization, and real-time tracking. By con-
+tinually updating these apps with more advanced solutions, Foodora ensures that its delivery
+services are efficient, reliable, and aligned with customer expectations.
+• Encouraging app developer competition: By embracing the SUBSTITUTE operator, Foodora
+has fostered a competitive environment among app developers. This has led to the creation
+of better, more innovative apps and services, as developers strive to outperform their rivals
+and secure a place within Foodora’s ecosystem.
+In conclusion, Foodora’s application of the SUBSTITUTE operator has allowed the company
+to expand its ecosystem by promoting innovation, diversifying services, and improving overall
+platform performance. This approach has positioned Foodora as a leading player in the food
+delivery industry, adapting and evolving to meet the needs of both customers and partners.
+4 Part III: Four episodes from the timeline in detail
+The following section considers four important episodes along the timeline of Foodora. Each of
+these episodes played an important role in shaping the platform’s main objectives, as well as the
+evolution of the platform ecosystems as a whole.
+4.1 Episode 1: Acquisition
+Foodora was acquired by Rocket Internet in 2014 alongside several other food delivery plat-
+forms worldwide, such as Hurrier (Canada) and Suppertime (Australia) which operated under
+the Foodora brand. In 2015, Delivery Hero acquired Foodora from Rocket Internet [Chau and
+Kontominas 2023] and merged with Delivery Hero’s food delivery brand, Urban Taste under the
+Foodora brand.
+The acquisition of Foodora was seen as a milestone within Delivery Hero to further expand to new
+markets in Europe, North America and Australia. In Europe, Delivery Hero gained foothold in the
+3
+scandinavian marked through Foodora and its existing brand, which is clear to see today where
+Foodora is one of the leading food delivery companies with thousands of restaurants and shops
+within their ecosystem.
+Foodora, under Delivery Hero set to aggressively expand and advertize their brand to restaurants
+and consumers, and with a larger budget from Delivery Hero, Foodora had the possibility to grow
+and become established in their operation area. Investments from Delivery Hero led to a growing
+Foodora with new restaurants, delivery personell, Foodora markets and other features that are in
+the ecosystem today.
+4.2 Episode 2: Strikes
+The strikes against Foodora were initiated by its delivery riders in response to concerns over
+low pay, lack of benefits, and poor working conditions. In particular, the riders were classified
+as independent contractors rather than employees, which meant that they were not entitled to
+benefits such as sick leave, workers’ compensation, or minimum wage protections. The strikes
+took place in several countries where the company operated, including Australia, Germany, and
+Canada. The strikes began in 2017 and continued into 2018, with delivery riders demanding better
+working conditions, higher pay, and employee status.
+In Australia in November 2018, Foodora lost an unfair dismissal case against a former delivery
+driver Josh Klooger [Chau and Kontominas 2018]. The Fair Work Commission (TWC) decided that
+Foodora had terminated the Klooger’s contract in a ”harsh, unjust and unreasonable” manner after
+he had spoken out about Foodora’s worsening pay and conditions. Since he had started working
+for Foodora, the pay had gone from $14 per hour plus $5 per delivery to $7 per delivery and no
+hourly wage. He spoke about this publicly, in addition to creating an online chatroom to discuss
+the company’s low pay and working conditions. When Klooger refused to hand over access rights
+to this chatroom, Foodora terminated his contract immediately. He then sued for unfair dismissal
+and won, and Foodora was ordered to pay him almost $16.000 in compensation.
+While working on this case, the TWC noticed Foodora’s ”batch” system [Chau and Kontominas
+2018]. The delivery drivers were divided into batches, where Batch 1 consisted of the top 10% of
+drivers, based on who worked the most hours on evenings and weekends. This batch got to choose
+their shifts for the next period before the rest of the delivery drivers could. The poorest performing
+batch, Batch 4, was left with the last pick of the next shifts. The batch system was found to be
+evidence of Foodora exercising a high degree of control over its workers, meaning that they could be
+seen as employees, not contractors. These distinctions threatened the business model of Foodora,
+and similar companies, as they up until then could avoid paying costly employee entitlements, such
+as annual leave, sick leave and superannuation.
+At the same time, a group of Foodora delivery riders in Australia successfully sued the company,
+arguing that they should have been classified as employees rather than independent contractors
+[Tran and Marozzi 2018]. This ruling set a precedent for other similar cases in Australia and
+around the world, as this would change the business model of those companies reliant on the gig
+economy.
+The strikes had an impact on Foodora’s financial performance, as the company faced increased
+costs associated with addressing the concerns of its delivery riders and defending itself against the
+mentioned legal challenges. In 2018, Foodora announced that it would be ceasing operations in
+Australia, citing ”a distant position with the number one, and we could not provide the customer
+an amazing experience given our scale” [Smyth 2018]. Later that year, Foodora’s parent company,
+Delivery Hero, announced that it would be selling its food delivery business in France, Italy and
+the Netherlands, claiming that “The rationale for the other three markets is similar” [Smyth 2018].
+At that time Foodora owed over $8 million to different creditors and former employees [Chau and
+Kontominas 2018].
+The strikes against Foodora, and the broader movement for fair labour practices in the gig economy
+that they were part of, significantly impacted the evolution of the platform ecosystems of companies
+like Foodora. Prior to the strikes, companies like Foodora were able to operate with relatively little
+4
+regulatory oversight, relying on the classification of their workers as independent contractors to
+avoid providing benefits and minimum wage protections. However, the strikes and associated legal
+challenges brought attention to the issue of worker classification and put pressure on companies
+to reexamine their labour practices. They have also contributed to a more complex regulatory
+environment for gig economy companies. In many jurisdictions, there is an ongoing debate over
+how to classify gig economy workers and what types of protections they should be entitled to
+(Spoke 2022). This has led to increased scrutiny and regulation of gig economy companies, and in
+some cases, companies like Foodora have chosen to exit certain markets [Nium 2021].
+Overall, the strikes against Foodora were a significant turning point in the evolution of the platform
+ecosystems of gig economy companies, contributing to increased regulation and scrutiny and driving
+changes in labour practices and benefits for gig economy workers.
+4.3 Episode 3: Covid
+The COVID-19 pandemic and the resulting home delivery boom had a significant impact on
+Foodora’s business. With people staying at home and restaurants closed for in-person dining,
+there was a surge in demand for food delivery services, and Foodora was well-positioned to meet
+this demand. The platform saw a significant increase in orders, particularly in the Nordic countries
+where it operates.
+Foodora’s focus on quick and reliable delivery, as well as its broad selection of restaurant options,
+made it a popular choice for customers during the pandemic. The platform also expanded its
+services to include grocery delivery, which further boosted its popularity among customers who
+were unable or unwilling to leave their homes.
+The increased demand for food delivery services also provided an opportunity for Foodora to
+expand its business and increase its market share. The platform continued to invest in technology
+and infrastructure to improve its delivery capabilities, and it partnered with more restaurants and
+grocery stores to offer a wider selection of products to customers.
+Overall, the home delivery boom caused by the COVID-19 pandemic provided a significant boost
+to Foodora’s business and helped to solidify its position as a leading player in the food delivery
+market. The platform’s ability to adapt to changing market conditions and meet the needs of
+customers was a key factor in its success during this time.
+4.4 Episode 4: Foodora markets
+Foodora Markets is a new grocery concept launched by Foodora in early 2021. With this launch,
+Foodora went away from being a pure restaurant delivery service into entering the wholesale trade.
+The concept revolves around customers browsing and ordering grocery items exclusively online in
+the app or webpage. The ordered goods are then picked up by a delivery driver, similar to when
+ordering from a restaurant, and delivered from Foodora markets’ own ”dark stores”. Even as a
+relatively new feature, Foodora markets have currently grown to include 10 stores in operation and
+over 2500 product lines in Norway [foodora market 2022].
+The implementation of Foodora market into the Foodora ecosystem can be viewed as an alternative
+approach to creating a lock-in. Ultimately, the addition of more diverse functionality is meant to
+make the platform more valuable for all users. This is because the platform now can be used as
+both a delivery service for dishes from restaurants and grocery items.
+Furthermore, using the Foodora name and brand to launch such a feature makes the functionality
+more accessible to users that already have used Foodora before. This is a result of users being
+more likely to hear about and try functionality that is closely related to known features. Users
+are familiar with how the system works, as well as trust that the items are delivered in a timely
+manner.
+The addition of Foodora market has further positioned Foodora as a leading vendor within the
+5
+delivery space in the Nordic countries. The constantly expanding range of functionalities in the
+Foodora ecosystem ultimately makes switching to a competing platform more unappealing than
+staying with the platform for most users.
+5 Conclusion
+This delivery has detailed some of the most important events in the evolution of Foodora. Four
+events along the timeline were described in greater detail to gain a deeper knowledge of the plat-
+form. These were the acquisition by DeliveryHero, worker strikes, boost under the Covid-19 pan-
+demic and the opening of Foodora markets. Lastly, three modular operators which have had an
+impact on the development and incremental refinement of Foodora are listed. This includes the
+operators augment, mutate and substitute.

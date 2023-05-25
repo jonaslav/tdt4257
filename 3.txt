@@ -1,0 +1,211 @@
+and maintaining the apps that run on the platform. This includes ensuring that their apps comply
+with Foodora’s terms and conditions, as well as maintaining the quality and performance of their
+apps over time. The decision rights are quite centralized, meaning that most of the authority and
+responsibilities lie with the platform owner.
+2.3.2 Control portfolio configuration
+The second dimension is the control portfolio configuration. This is the collection of mechanisms
+through which the platform owner exercises control over app developers (Tiwana 2014). There
+are four control mechanisms described by Tiwana (2014): three formal and one informal. The
+formal control mechanisms include control through gatekeeping, process control, and control using
+metrics, while the informal control mechanism is relational control.
+Foodora uses these control mechanisms to control their delivery drivers and the restaurants on
+the app. The first control mechanism, gatekeeping, reserves bouncer rights to Foodora over what
+restaurants can be included as part of the ecosystem. A restaurant has to apply to be a part of the
+Foodora app, and Foodora can choose to accept or reject the restaurant. This gives Foodora the
+possibility to choose which restaurants they think will meet their requirements (foodora partner
+2023).
+The second formal control mechanism is process control. This refers to the degree to which the
+platform owner rewards or penalizes app developers based on the degree to which they follow
+prescribed development methods, rules, and procedures that it believes will lead to outcomes de-
+sirable from a platform owner’s perspective (Tiwana 2014). As the app developers are employees at
+Foodora, Foodora has complete control over the process and can decide how much their employees
+should follow their development methods and rules.
+The last formal control mechanism is metrics. This refers to the degree to which the platform owner
+rewards or penalizes app developers based on the degree to which the outcomes of their work achieve
+predefined target performance metrics (Tiwana 2014). Foodora uses this control mechanism on
+their delivery drivers. As discussed in delivery 2, Foodora rewards their best-performing drivers,
+giving them first pick for shifts, and punishing their bottom performers (Chau 2018).
+The informal control mechanism of relational control refers to the degree to which the platform
+owner relies on norms and values that it shares with app developers to influence their behavior
+(Tiwana 2014). Foodora relies on a combination of employees and independent contractors to op-
+erate its business. It would probably be easier to exert relational control over their own employees,
+as they can have a common culture within the company, than over the independent contractors.
+2.3.3 Pricing policies
+The third and last dimension is the pricing policies. These are the decisions about how proceeds
+will be divvied up between a platform owner and app developers (Tiwana 2014). The restaurants
+pay Foodora 30% of the order price to Foodora but benefit from a difference in tax (Miltok 2016).
+This means that Foodora uses pie splitting with a fixed rate. The collaboration with Foodora is a
+lucrative way for the restaurants to get additional revenues, as the employees, food, and equipment
+are already in place. They could have a full restaurant and still serve more customers. It is also
+lucrative for Foodora, as they only have to pay the delivery driver, so it is a good solution for both
+the restaurants and Foodora.
+2
+3 Perceived value
+3.1 Consumers
+Consumers are a critical component of the Foodora ecosystem, as they represent the primary
+user base of the application. These are the people that browse and order food from one of the
+restaurants, also often utilizing the delivery service offered by Foodora. The consumers’ role is not
+limited to just ordering food, as they also provide valuable feedback and ratings on the quality of
+the food, delivery experience, and overall service provided by the platform.
+3.1.1 Collecting empirical data about consumers
+The team conducted user interviews to collect empirical data about what consumers thought about
+Foodora. To ensure the reliability and validity of data, the team developed a structured interview
+plan and recruited a diverse sample of users who had both used and not used Foodora to order
+food in the past. The chosen test subjects consist of the team members’ friends and family, all
+belonging to different age groups and in different areas of work or study. A total of 5 interviews
+were conducted in the collection of empirical data.
+During the interviews, the team asked questions about users’ experiences with Foodora, including
+when they use it, why they use it, and how frequently they used the platform. Those who did
+not utilize the application were asked about their reasons for not using it and what features the
+application could offer to encourage them to use it. The team also asked follow-up questions to
+gather more specific information and insights. The data was then recorded and analyzed to identify
+common themes and patterns from the users.
+3.1.2 The perceived value of the platform by the consumers
+Through analyzing the user interviews, the team has concluded that there are several factors that
+both motivate and discourage users from choosing food delivery services over more traditional
+options like physically visiting restaurants or preparing meals at home. Therefore, the perceived
+value of the food delivery platform by consumers varies depending on individual preferences and
+needs.
+Firstly, it was discovered that the ease and convenience of ordering food online through a mobile
+app or website is a major draw for busy individuals who don’t have the time or energy to plan for
+and cook meals. The application is easily accessible through its simple and user-friendly interface
+which in turn makes it fast and simple to browse and order. Furthermore, Foodora assures that
+the food is safely delivered directly to a consumer’s door removing the need to commute to the
+restaurant’s location to collect their orders such as with traditional takeout.
+Additionally, food delivery services offer various restaurants serving different cuisines and menu
+options. This allows users to try and discover new dishes and culinary cultures that they otherwise
+would not explore. By gathering all the nearby restaurants into a single application, users can
+easily obtain a comprehensive overview of the available options. According to multiple users, the
+ability to browse and select from a variety of venues was a significant factor in their decision to
+use the platform. They also noted that this increased level of freedom resulted in a more enjoyable
+and satisfying dining experience
+Finally, the study revealed that several consumers utilized Foodora’s food delivery service in social
+contexts, such as get-togethers with friends and family or celebratory occasions like birthdays and
+anniversaries. These findings suggest that food delivery services are not only valued for their
+convenience but can also enhance social interactions and experiences. Overall, the ability to bring
+people together over a shared meal is a significant benefit of food delivery services like Foodora.
+All these factors combined make food delivery services an attractive and popular choice among
+users. However, despite the advantages of food delivery services, there are several reasons why
+3
+consumers may opt not to use them. For instance, some of the individuals interviewed stated
+that they did not use the platform regularly because they preferred to cook their meals at home,
+either due to enjoying the process of cooking or for health reasons. A significant proportion of the
+restaurants on food delivery platforms tend to offer fast food options that contain high levels of
+refined sugar and processed oils. This factor, along with concerns about the freshness and quality
+of the delivered food, can be a deterrent for some users. As such, individuals who prioritize their
+fitness goals may decide to prepare healthy, whole-food meals at home instead of using food delivery
+apps.
+Furthermore, while food delivery services provide convenience and accessibility, the cost can be
+a significant barrier for some individuals. Delivery fees and service charges can add up quickly,
+making the overall cost of a meal significantly more expensive than if it were prepared at home.
+Moreover, some food delivery services require a minimum order amount, which may not be practical
+for those on a budget or those who only require a small meal. For these reasons, the cost of food
+delivery services may be too high for some individuals, causing them to opt for alternative dining
+options.
+3.2 Restaurants
+Restaurants play a crucial role in the success of food delivery companies like Foodora. As a food
+delivery platform, Foodora relies on the quality and variety of restaurants in its ecosystem to
+satisfy its customers’ varied culinary needs. Restaurants are the main food suppliers to Foodora,
+and their menus determine the range of options available for their customers to order from. In
+addition, restaurants are responsible for preparing and packaging food to be delivered to customers
+in a timely and professional manner. Therefore, the quality of food and service provided by
+restaurants has a direct impact on the overall customer experience and reputation of Foodora.
+Successful partnerships with recognized and popular restaurants can drive customer loyalty and
+lead to increased income for both the restaurant and Foodora.
+3.2.1 Collecting empirical data about restaurants
+Interviews were conducted to collect empirical data about restaurants’ opinions about Foodora.
+The team contacted multiple restaurants from Oslo with a diverse variety of cuisines such as fast
+food chains and ethnic restaurants to ensure that a wide broad of restaurants that use Foodora is
+represented. The interviews were conducted by contacting the restaurants in person around the
+city center of Oslo with a set of questions prepared to be answered.
+The interview questions focused on restaurants’ overall thoughts about Foodora, why they use
+Foodora, its advantages and disadvantages, and how the Foodora ecosystem affected how busy the
+restaurant was. The goal of the interviews was to gather an overview of how restaurants perceive
+Foodora and further specific questions related to restaurants were asked to gather more details and
+insights.
+3.2.2 The perceived value of the platform by restaurants
+Analyzing the data gathered from restaurants, multiple factors were found about restaurants’
+perceptions of Foodora and food delivery companies in general. The common perception is the
+ease of use and the convenience Foodora brings to restaurants, as well as the issues regarding to
+pick-up time and payments to restaurants.
+Restaurants have traditionally been a business where transactions have been made physically inside
+the restaurant, and customers have had no choice but to travel to the restaurant to order and
+consume the food. With technological advancements, some restaurants facilitated home delivery
+with their own delivery staff and ordering options through the phone or Internet. The challenge
+of home delivery with in-house delivery staff is the need to have enough staff at any given time,
+which drives up the expenses of the restaurant. Additionally, having an ordering system by phone
+4
+and/or through the Internet requires restaurants to invest in advertisements in order to expand
+their customer base. Foodora solves these issues, where the restaurant does not have to maintain
+a delivery staff, as it is delivered by Foodora. Foodora ecosystem also enables customers to find
+any restaurant that uses the platform with recommendations and rating systems, which makes it
+easier for restaurants to advertise themselves to expand their customer base.
+In order for Foodora to maintain its operations as well as its growth, a delivery fee is taken from the
+customer, as well as the restaurants to facilitate the services. One of the major issues restaurants
+are facing with Foodora, is the percentage cut they take from the orders. Multiple restaurants
+have complained about this during the interview, pointing out the small margins that restaurants
+already operate with and the true expense of home delivery companies like Foodora. When asked
+during the interviews about why the restaurants still use Foodora considering the small margins,
+all of the restaurants pointed out the importance of food delivery companies during Covid-19 and
+the size of their customer base because of Foodora.
+Restaurants that are in the Foodora ecosystem, rely heavily on Foodora to expand and operate their
+businesses. Restaurants perceive Foodora as a platform to conduct business and have become more
+and more dependent on food delivery companies to grow their business, as the home delivery market
+is growing at speed. Restaurants’ experience with Foodora however, is somewhat bittersweet. The
+ecosystem itself provides a great platform for restaurants to advertise and conduct business, but
+the fee to enter the ecosystem and the delivery issues that arise is the biggest challenge restaurants
+are facing.
+4 Additional reflections
+As we delve deeper into the Foodora platform ecosystem and its governance, it is essential to
+recognize the broader implications of the platform’s impact on various stakeholders. This additional
+reflection section will discuss the long-term sustainability of the Foodora platform, the challenges
+faced by delivery drivers, and the potential environmental impact of food delivery services.
+4.1 Long-term Sustainability of the Foodora Platform
+The long-term sustainability of the Foodora platform is contingent upon the ability to adapt and
+evolve with the changing market landscape. The platform must continually evaluate its governance
+structure and policies, striking a balance between maintaining control over the ecosystem and
+fostering innovation and growth. The platform must also remain vigilant to emerging trends and
+competition, ensuring that it remains an attractive option for both consumers and restaurants.
+One area where Foodora can focus on long-term sustainability is by cultivating strong relationships
+with the restaurants in its ecosystem. By investing in support services, providing better data and
+insights, and offering innovative marketing solutions, Foodora can become a valuable partner to
+the restaurants, helping them to grow and succeed in an increasingly competitive environment.
+Additionally, Foodora should explore opportunities to diversify its revenue streams, potentially
+expanding into other services such as catering. This would not only increase the platform’s overall
+revenue but also create additional value for its ecosystem partners.
+4.2 Challenges Faced by Delivery Drivers
+While the Foodora platform has brought convenience and choice to consumers and new revenue
+opportunities for restaurants, it is essential to consider the challenges faced by the delivery drivers
+who are the backbone of the platform. These drivers are often classified as independent contractors,
+which means they may not receive the same benefits and protections as traditional employees.
+Some of the challenges faced by delivery drivers include low and unstable income, lack of job
+5
+security, and inadequate support from the platform. To address these issues, Foodora should
+consider exploring alternative employment models for its delivery drivers, providing better support
+and resources, and ensuring fair compensation.
+Moreover, Foodora should take a proactive approach to improve working conditions for its delivery
+drivers. This could include implementing performance-based incentives, providing access to train-
+ing and development opportunities, and ensuring that drivers have a safe and secure environment
+in which to work.
+4.3 Environmental Impact of Food Delivery Services
+As food delivery services such as Foodora continue to grow in popularity, it is important to con-
+sider the potential environmental impact of this trend. The increased use of single-use packaging
+materials, coupled with increased vehicle emissions from delivery vehicles, can have a negative
+impact on the environment.
+Foodora, as an industry leader, has a responsibility to address these environmental concerns and
+should look for ways to minimize its ecological footprint. This could include partnering with
+restaurants to implement more sustainable packaging solutions, incentivizing the use of eco-friendly
+delivery vehicles, and promoting environmentally conscious practices among its delivery drivers.
+Furthermore, the platform could also explore innovative solutions such as offering customers the
+option to offset their carbon footprint through tree-planting initiatives or investing in renewable
+energy projects.
+5 Conclusion
+In summary, this delivery has presented a comprehensive analysis of Foodora’s platform ecosystem
+governance. It began with an introduction to platform governance, encompassing its purpose and
+interplay with platform architecture. Moreover, it delved into the three dimensions of platform
+governance. The delivery then explored the perceived value of Foodora for both consumers and
+restaurants, with a focus on empirical data analysis. Lastly, some additional reflections surrounding
+the Long-term Sustainability of the Foodora Platform, Challenges Faced by Delivery Drivers, and
+environmental impact, were discussed. Overall, this analysis provides valuable insights into the
+functioning of Foodora’s platform ecosystem governance, which can serve as a useful reference for
+decision-making processes in the future.
