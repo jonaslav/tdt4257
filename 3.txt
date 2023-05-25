@@ -1,3 +1,43 @@
+1 Introduction
+In this report, we will examine the governance of the Foodora platform ecosystem, which entails
+discussing its purpose, dimensions, and its relationship with platform architecture. Additionally,
+we will explore the platform’s perceived value from the perspective of two relevant actors, namely
+consumers and restaurants. Furthermore, we will provide reflections on the platform’s long-term
+sustainability, challenges with delivery drivers, and its environmental impact.
+2 Platform governance
+Governance is how a platform owner influences its ecosystem (Tiwana 2014). The platform owner
+seeks to orchestrate the platform rather than control it. Governance can reduce behavioral com-
+plexity, much like platform architecture reduces structural complexity.
+2.1 Purpose of platform governance
+While both innovation and transaction platforms require effective governance to function prop-
+erly, the specific purposes of governance differ. Governance in innovation platforms is focused
+on fostering creativity and collaboration, while governance in transaction platforms is focused on
+facilitating efficient and secure transactions.
+For Foodora, the purpose of governance will therefore be to ensure that the platform is efficient,
+secure, transparent, and fair for all parties involved in transactions. Transaction platforms typically
+rely on more centralized governance models that establish rules, policies, and procedures to govern
+how the platform operates and how its participants interact with each other. The governance of
+a transaction platform is aimed at providing a trusted and reliable environment for buyers and
+sellers to conduct transactions.
+2.2 Relationship with platform architecture
+All the dimensions of platform governance, which will be discussed in the next section, must be
+aligned with its architecture, as governance structures are strategically inseparable from platform
+architecture (Tiwana 2014). How well a governance structure can work depends on whether it is
+aligned well with the platform’s architecture, the stage of its life cycle, and its business model.
+According to Tiwana (2014) can a misalignment in any one of the three governance dimensions
+lead to a collapse of the ecosystem.
+2.3 Platform governance dimensions
+2.3.1 Decision rights partitioning
+Platform governance encompasses three dimensions. The first is decision rights partitioning, which
+is the division of authority and responsibilities between the platform owner and app developers,
+meaning who makes what decisions (Tiwana 2014). A decision right can belong either to the
+platform owner or the app developer, or anywhere in between. It is rarely completely one or the
+other who has the decision right, but rather that both have some authority and responsibility for
+most decisions.
+Within Foodora, the platform owner has the ultimate authority and decision-making power over
+the platform. This includes setting the terms and conditions for app developers to access and use
+the platform, as well as establishing policies and procedures for the operation and management of
+the platform (foodora 2023). App developers, on the other hand, are responsible for developing
 and maintaining the apps that run on the platform. This includes ensuring that their apps comply
 with Foodora’s terms and conditions, as well as maintaining the quality and performance of their
 apps over time. The decision rights are quite centralized, meaning that most of the authority and
