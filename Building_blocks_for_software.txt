@@ -1,0 +1,3576 @@
+Journal of the Association for Information Systems
+Volume 22
+
+Issue 6
+
+Article 9
+
+2021
+
+The Building Blocks of Software Platforms: Understanding the
+Past to Forge the Future
+He Li
+Clemson University, hl3@clemson.edu
+
+William J. Kettinger
+Clemson University, wkttngr@clemson.edu
+
+Follow this and additional works at: https://aisel.aisnet.org/jais
+
+Recommended Citation
+Li, He and Kettinger, William J. (2021) "The Building Blocks of Software Platforms: Understanding the Past
+to Forge the Future," Journal of the Association for Information Systems, 22(6), 1524-1555.
+DOI: 10.17705/1jais.00706
+Available at: https://aisel.aisnet.org/jais/vol22/iss6/9
+
+This material is brought to you by the AIS Journals at AIS Electronic Library (AISeL). It has been accepted for
+inclusion in Journal of the Association for Information Systems by an authorized administrator of AIS Electronic
+Library (AISeL). For more information, please contact elibrary@aisnet.org.
+
+Journal of the Association for Information Systems (2021) 22(6), 1524-1555
+doi: 10.17705/1jais.00706
+
+RESEARCH ARTICLE
+ISSN 1536-9323
+
+The Building Blocks of Software Platforms:
+Understanding the Past to Forge the Future
+He Li1, William J. Kettinger2
+1
+
+Clemson University, USA, hl3@clemson.edu
+Clemson University, USA, wkttngr@clemson.edu
+
+2
+
+Abstract
+This study takes a review and theory development (RTD) approach to synthesizing the software
+platform literature, offering theoretical perspective and research guidance. In doing so, we
+conceptualize platform and complementary capabilities for software platform owners and
+complementors. The review indicates that three dimensions reflect platform capabilities:
+intermediarity, generativity, and ambidexterity, while complementary capabilities include creativity,
+interconnectivity, and appropriability dimensions. We derive an integrative framework of software
+platforms, which explains (1) how software platform owners and complementors improve
+performance by enhancing their capabilities, and (2) how software platform owners, complementors,
+and the ecosystem environment coevolve. We then discuss how future research can build on and
+enrich the research framework.
+Keywords: Software Platforms, Platform Capabilities, Complementary Capabilities, Software
+Ecosystems, Review and Theory Development, Emergent Framework, Future Platform Research
+Dorothy E. Leidner was the accepting senior editor. This research article was submitted on January 5, 2019 and
+underwent three revisions.
+
+1 Introduction
+Platform-based software ecosystems are prevalent and
+garner tremendous interdisciplinary research interest.
+A software platform is “the extensible codebase of a
+software system that provides core functionality shared
+by modules that interoperate … [through interfaces]”
+(Tiwana et al., 2010, p. 675). Owners of software
+platforms, such as iOS, Android, Xbox, SAP, and
+Firefox, provide extensible code and make strategic
+decisions concerning standards and governance. The
+add-on software subsystems interconnecting to the
+platform are modules or third-party applications
+(abbreviated as apps hereafter), whose providers are
+known as software platform complementors. The focal
+platform, add-on apps, platform owners, and
+complementors form a software platform ecosystem
+(Eaton et al., 2015).
+
+1524
+
+Compared to “traditional” linear value chain activities,
+software platform owners gain a competitive
+advantage through the orchestration of an innovation
+ecosystem (Van Alstyne et al., 2016)—their central
+managerial endeavor is shaping this ecosystem.
+Software platforms provide complementors with
+technological resources, an installed base of potential
+customers, and social reputation (Ceccagnoli et al.,
+2012); meanwhile, complementors must manage
+interdependencies with the platform, mitigate risks of
+being imitated, and establish co-opetition with the
+focal platform and complementors in the ecosystem.
+Given these contextual characteristics of software
+platforms, it is vital for platform owners and
+complementors to develop capabilities that may be
+different from competing in a “traditional,” nonplatform-based business setting.
+
+The Building Blocks of Software Platforms
+
+Complicating matters, software platform owners and
+complementors form collaborations and are
+interdependent such that complementors utilize
+platform interfaces and conform to platform standards
+and governance (Tiwana et al., 2010). Changes in
+software platform architecture and governance directly
+influence the way that complementors develop
+products and compete in the ecosystem (Tiwana,
+2015a); in turn, diverse complementors’ innovations
+and competitive strategies shift the ecosystem
+boundaries (Eaton et al., 2015) and invert platform
+owners’ decisions (Parker et al., 2017). Thus, in
+software platform ecosystems, often characterized by
+hyperturbulence, platform owners and complementors
+make strategic decisions and witness long-term
+evolutionary trajectories under the cocreated
+boundaries of the platform ecosystem environment
+(Eaton et al., 2015; Li, Zhang, & Kettinger, 2021).
+Therefore, it is crucial to answer the research question:
+RQ: How do software platform owners’ and
+complementors’ capability-building strategies,
+the ecosystem environment, and performance
+coevolve?
+Prior studies related to this central question have
+examined software platforms at different levels (e.g.,
+platform owners, complementors, ecosystems) with
+various theoretical perspectives. Building on a network
+effects lens, this literature (e.g., de Reuver, Sørensen,
+& Basole, 2018; Gawer, 2014; Jacobides, Cennamo, &
+Gawer, 2018; McIntyre & Srinivasan, 2017; Tiwana et
+al., 2010) emphasizes competitive advantages from a
+strategic perspective, treats software platforms as
+technical artifacts with a layered modular architecture,
+highlights the criticality of control and coordination of
+an ecosystem’s complementors, and views software
+platform ecosystems as complex interorganizational
+networks.
+Despite diverse theoretical views, knowledge remains
+fragmented. An integrative review synthesizing prior
+perspectives and findings should paint a more holistic
+picture of the current understanding. Notably, the
+software platform context consists of the fusion and
+interdependencies among digital technologies,
+platform owners, diverse complementors, and the
+cocreated ecosystem environment, which trigger the
+coexistence of multiple strategies and paths for
+surviving and prospering (El Sawy et al., 2010; Yoo et
+al., 2010). Synthesizing different perspectives
+promises to offer unique and complete understandings
+of this complex and multifaceted phenomenon (Park et
+al., 2020). Although prior synthesis efforts have
+targeted digital or technological platforms (e.g., de
+Reuver et al., 2018; Gawer, 2014) and business
+ecosystems (e.g., Adner, 2017; Jacobides et al., 2018),
+software platform owners’ and complementors’
+capabilities have not yet been conceptualized. Also,
+prior platform frameworks focus on either the platform
+
+owner level (e.g., Thomas et al., 2015; Tiwana et al.,
+2010; Yoo et al., 2010) or the complementor level
+(e.g., Nambisan, 2017). An emergent opportunity is to
+theorize a multilevel framework delineating the
+coevolution
+of
+software
+platform
+owners,
+complementors, and the ecosystem environment.
+This paper takes a review and theory development
+(RTD) approach (see Appendix A for the detailed
+analytical procedure) to theorize an integrative
+framework by capturing software platform
+characteristics,
+conceptualizing
+platform
+and
+complementary capabilities, and developing a
+nomological network of software platform owners,
+complementors, and the ecosystem environment. We
+follow an organizing review of Leidner’s (2018)
+polylithic framework of the RTD approach since the
+software platform phenomenon is relatively new and
+no single existing theory can fully capture all its
+characteristics. The form of theory and the major
+theoretical contribution is the emergent framework
+derived from the literature synthesis, which is “akin to
+a grounded theory approach” (Leidner, 2018, p. 556).
+Based on this emergent framework, we conclude by
+discussing future research opportunities.
+
+2 Theoretical Foundation
+This section describes the major theoretical
+perspectives on software platforms, which provide the
+foundation for deriving our integrative framework. We
+review the relevant articles while describing each
+perspective.
+
+2.1 Industrial Organization (IO)
+Economics Perspective
+Research from the IO economics perspective
+conceptualizes software platforms as intermediates
+that facilitate transactions between multisided markets
+(i.e., users and complementors). They often fuse
+software platform owners’ and complementors’
+performance into the market structure resulting from
+network effects (McIntyre & Srinivasan, 2017).
+Networks are conceptualized as the system of
+interconnected entities (i.e., nodes), which can be
+individuals or organizations (Eisenmann, 2006). In this
+way, software platforms and network effects facilitate
+complementors’ and users’ interactions (Rochet &
+Tirole, 2006). Network effects refer to “the value of
+membership to one user is positively affected when
+another user joins and enlarges the network” (Katz &
+Shapiro, 1994, p. 94).
+Since software platforms mediate users and
+complementors, the literature distinguishes two-sided
+network effects—i.e., the level of benefit for
+participants varies according to the number of
+participants on the same side (i.e., direct network
+effects) and the other side (i.e., indirect network
+
+1525
+
+Journal of the Association for Information Systems
+
+effects) (Parker & Van Alstyne, 2005). Prior studies
+have focused on the structure of a software platform’s
+two-sided network effects, such as the scope of indirect
+network effects (Corts & Lederman, 2009), the
+performance implications of indirect network effects
+(Clements & Ohashi, 2005; Zhu & Iansiti, 2012), and
+the asymmetry between two-sided network effects
+(Clements, 2004; Song et al., 2018). The prevalence of
+two-sided network effects suggests the possibility of
+winner-take-all (WTA) outcomes (Eisenmann et al.,
+2006; Katz & Shapiro, 1994), especially when the
+demand for product differentiation is low and
+multihoming costs for platform participants are high
+(Hagiu, 2009).
+
+2.2 Strategic Management Perspective
+Research from the strategic management perspective
+builds on the network effects lens but shifts the focus
+from market structure in the IO economists’ view to
+firm-driven competitive actions that influence
+software platform owners’ and complementors’
+performance (McIntyre & Srinivasan, 2017). Studies
+in this stream have found that WTA-oriented strategies
+driven by network effects are sometimes flawed for
+several reasons. First, early IO economic studies made
+a “size” assumption about two-sided network effects—
+i.e., software platform users strongly prefer platforms
+with more complementors, and in turn, complementors
+are incentivized by a larger number of users (Katz &
+Shapiro, 1994). This assumption is challengeable in
+multiple ways. For example, complementors may be
+motivated by non-monetary incentives (Boudreau &
+Jeppesen, 2015); multiple software platforms may
+coexist because of asymmetric network effects,
+differentiated customer preferences, and reasonable
+costs of using multiple platforms (Cennamo & Santalo,
+2013); and the heterogeneity of network members
+(Afuah, 2013). Second, IO economics researchers
+often assume two-sided network effects to be
+exogenous in an industry (McIntyre & Srinivasan,
+2017). However, software platform owners pursuing
+aggressive network effect strategies are also likely to
+fall into a prisoner’s dilemma—i.e., firms’ investments
+create value but may not result in improved
+profitability because the created value relative to their
+competitors remains unchanged (Mantovani & RuizAliseda, 2016).
+Addressing these challenges, research from the
+strategic management perspective has advocated that
+software platform owners need to assess their
+competitive environment and undertake corresponding
+strategies relative to competitors, such as determining
+entry timing (Eisenmann, 2006) and a software
+platform’s relative quality (Anderson et al., 2014; Zhu
+& Iansiti, 2012). Addressing the tension between
+network effects and competitive crowding—i.e., a
+change of complementors’ innovation incentives
+
+1526
+
+depends on app differentiation—Boudreau (2012)
+demonstrated the link between the number of
+complementors and generated app varieties. The
+literature also suggests diverse ways for software
+platforms to attract complementors such as monetary,
+reputational, and signaling motivations (e.g., Boudreau
+& Jeppesen, 2015).
+Prior studies have examined complementors’
+strategies to gain competitive advantages, such as
+product portfolio management (Lee & Raghu, 2014;
+Pervin, Ramasubbu, & Dutta, 2019), product
+positioning relative to competitors in the same
+category (Barlow et al., 2019; Zhao et al., 2018),
+strategizing product scope relative to the platform's
+layered architecture (Li et al., in press), synthesizing
+institutional logics of profession and market (Qiu et al.,
+2017), exploiting ecosystem experience (Kapoor &
+Agarwal, 2017), and multihoming (Cennamo et al.,
+2018; Pervin et al., 2019). They also studied value
+cocreation between complementors and platform
+owners as well as complementors’ value capture
+mechanisms. For example, Ceccagnoli et al. (2012)
+found that joining a major software platform
+ecosystem is associated with increased sales and the
+likelihood of an initial public offering (IPO). Given the
+paradox of disclosure, appropriability mechanisms
+such as patents and trademarks increase
+complementors’ motivation for (Huang et al., 2013)
+and benefits from (Ceccagnoli et al., 2012) joining a
+software platform ecosystem. Wen and Zhu (2019)
+indicated that complementors adjust their value
+capture strategies to respond to the software platform
+owner’s entry into their complementary product
+market.
+
+2.3 Social Network Perspective
+In line with IO economists’ conceptualization of
+networks, sociology scholars view software platform
+ecosystems as a network of participants or software
+components but emphasize the attributes and impacts
+of social relations (Uzzi, 1997). The economics and
+social activities of software platform owners and
+complementors are embedded in the ecosystem's social
+networks, highlighting the role of complementors’
+social embeddedness. As conceptualized by Uzzi
+(1997, p. 35), “embeddedness is a logic of exchange
+that promotes economics of time, integrative
+agreements, Pareto improvements in allocative
+efficiency, and complex adaptation.” This stream of
+research unpacks the “size” assumption of network
+effects by considering the heterogeneity through a
+closer examination of network structure (Afuah, 2013).
+Researchers taking a social network perspective, such
+as Leong, Pan, Leidner, and Huang (2019), see
+platform ecosystems as an embedded network of
+relationships with different boundaries, including
+dyadic ties between a platform and complementors.
+
+The Building Blocks of Software Platforms
+
+Complementors form strategic interorganizational
+relationships, creating the network structure of software
+platform ecosystems (Li et al., in press). Examples
+include iOS and Android app developers actively seek
+alliances, mutual product certifications, technological
+integration, and collaborative R&D, presenting these on
+their websites under tabs such as “Partners,” “Friends,”
+and “Collaborators” (van Angeren et al., 2016);
+DataStax, a Hadoop platform complementor
+specializing in database-related products, partnering
+with HP Cloud Services to expand its cloud-based
+product offerings;1 and, Cloudera acquiring Gazzang to
+strengthen its Hadoop security.2
+Interorganizational relationships confer information,
+knowledge, and resources critical to complementors’
+performance (Venkatraman & Lee, 2004) and the
+development of products, services, and processes. Prior
+literature has demonstrated that complementors’
+structural characteristics of interorganizational networks
+(such as network size, density, and diversity) affect their
+performance (Basole & Park, 2019). Complementors’
+interorganizational relationships form the dynamic
+network structure of the software platform ecosystem,
+which sets the boundary for complementors (Li et al., in
+press) and shifts platform owners’ resource
+orchestration abilities. Prior research highlights that the
+existence of evolving social connections requires
+platforms to strategically manage platform ecosystem
+boundaries in conferring resource allocation and
+absorption (Leong et al., 2019). Studies such as
+Venkatraman & Lee (2004) demonstrate that software
+platform network structure (i.e., embeddedness and
+density overlap) along with platform technology
+characteristics (such as dominance and newness)
+influence complementors’ product releases.
+
+2.4 Architectural Perspective
+Researchers have traditionally viewed software
+platforms as IT artifacts that facilitate innovation
+through platform architectural design (Gawer, 2014).
+This architectural perspective traces back to
+engineering design literature (Simon, 1962) that
+considers software platforms as modular systems
+(Baldwin and Clark, 2000). In this way, software
+platform owners provide the core platform
+architecture, which can be extended by
+complementors through a standard interface (Gawer,
+2014). Tiwana et al. (2010, p. 677) define platform
+architecture as the “conceptual blueprint that
+describes how the ecosystem is partitioned into a
+relatively stable platform and a complementary set of
+modules that are encouraged to vary, and the design
+rules binding on both.”
+
+Among the many dimensions of platform architectural
+design, the most studied is modularity, which is the
+extent to which the change of a subsystem will not cause
+a ripple effect on other parts of the system (Baldwin and
+Woodard, 2009). Yoo et al. (2010) further incorporated
+digital technology’s unique layered architecture into the
+modularity architecture and conceptualized a layered
+modular architecture of software platforms. The
+“traditional” modularity architecture enables the future
+evolution or extension of software components by
+providing the capability to connect to new add-on apps,
+which reduces complexity and increases flexibility
+(Simon, 1996). Designing modular software
+components to have different layers makes it possible to
+transform components from product-specific to productagnostic components and assemble them from a set of
+heterogeneous layers (Clark, 1985). The layered
+modular architecture of software platforms triggers a
+generativity mechanism, allowing the platform to create,
+generate, or produce new outcomes (such as products,
+services, structure, business processes, and behaviors)
+with limited input from platform owners (Yoo et al.,
+2010). With the layered modular architecture,
+generativity can be achieved through loose couplings
+across layers of software components. Generative
+innovations can be incubated independently at any layer,
+leading to cascading effects on other layers (Boland,
+Lyytinen, & Yoo, 2007).
+Prior research in this stream has examined how platform
+architectural design facilitates the software platform
+ecosystem’s evolution and generative mechanisms (e.g.,
+Msiska & Nielsen, 2018; Tiwana et al., 2010). For
+example, Xue et al. (2019) demonstrate that the software
+platform’s usage of application programming interfaces
+(APIs)—i.e., development toolkits and standardized
+interface through which complementors can access
+platform functionalities and extend them (Baldwin and
+Woodard, 2009)—affect complementors’ apps and
+copycatting. Studies have demonstrated that
+complementors’ architectural design, such as
+modularization (i.e., loosely coupling and interface
+conformance), influence their performance (Tiwana,
+2015a; 2015b; 2018).
+
+2.5 Control Perspective
+The significance of architectural design on ecosystem
+evolution is often in conjunction with the premise of
+control. Scholars using the control perspective believe
+that software platform owners need to address the
+evolvability-stability tension (Tiwana et al., 2010)—i.e.,
+the ability to evolve to fit with the dynamic environment
+and simultaneously sustain the quality and growth of an
+ecosystem (Demsetz, 1997; Wareham, Fox, & Giner,
+
+1 https://www.datastax.com/2012/05/datastax-enterprise-2-0-
+
+2 https://www.cloudera.com/about/news-and-blogs/press-
+
+now-available-with-hp-cloud-services
+
+releases/2014-06-03-cloudera-strengthens-hadoop-securitywith-acquisition-of-gazzang.html
+
+1527
+
+Journal of the Association for Information Systems
+
+2014). This line of inquiry is driven by observations of
+heterogeneity of consumer preferences, fragmentation
+of technologies, and uncertainty in ecosystem
+evolutionary trajectories (Wareham et al., 2014). The
+common theme is that software platform owners should
+retain sufficient control to ensure successful integration
+between the focal platform and diverse complementors
+while relinquishing enough control to foster
+complementors’ open innovation (Tiwana et al., 2010).
+
+achieve a predefined goal or effect. Through
+coordination,
+organizations
+achieve
+better
+performance by matching higher task uncertainty to
+informal coordination modes (Faraj & Xiao, 2006).
+Coordination costs refer to the efforts required to
+manage dependencies among resources and activities
+(Malone & Crowston, 1994); however, coordination
+challenges can persist even in the absence of agency
+conflicts (Gulati et al., 2005).
+
+Platform governance has been conceptualized as the
+design of effective ecosystem-wide control, decision
+rights allocation, and openness mechanisms (Gulati,
+Puranam, & Tushman, 2012; Tiwana et al., 2010).
+Ecosystem-wide governance clarifies “when” and
+“how” complementors may access the software
+platform’s resources to supply their apps, which serve as
+guidelines for value cocreation in the ecosystem
+(Tiwana et al., 2010; Wareham et al., 2014). For
+example, Tiwana (2015a) found that platform input
+control and complementors’ product architectural
+design jointly influence complementors’ performance
+by inducing complementary product updates. Huberet
+al. (2017) further unpacked how and why different
+ecosystem-wide governance results in different
+performance and highlighted the importance of being
+sensitive to ecosystem-wide values. Other studies have
+conceptualized boundary resources as the collection of
+software components and a set of governance rules,
+which affects the resolution of evolvability-stability
+tension and the evolution of boundary resources in a
+software platform ecosystem (Eaton et al., 2015;
+Ghazawneh & Henfridsson, 2013).
+
+Operating in a software platform context requires
+proficient knowledge workers, involves diverse
+complementors with heterogeneous motivations and
+evolutionary trajectories, and exists in a hyperturbulent
+ecosystem environment. These characteristics increase
+the importance of effective coordination mechanisms
+(Faraj & Xiao, 2006). Jacobides et al. (2018) pointed
+out that an undertheorized characteristic is the
+coordination of autonomous interrelated organizations,
+and accordingly identified the role of platform
+ecosystem processes and the rules of interfaces,
+standards, and engagement in resolving coordination
+issues that arise over time. Platform modularity
+architecture serves as a technical solution that helps
+solve the coordination issue in software platform
+ecosystems (Jacobides et al., 2018). Hagiu and Spulber
+(2013) argued that platform owners can provide firstparty content, usually for free or bundled into the
+software platform, to help solve the challenge of
+coordinating users and complementors. Tiwana
+(2015b)
+empirically
+demonstrated
+that
+complementors’ architecture design (i.e., decoupling
+and interface standardization) and decision rights
+delegation jointly influence their coordination costs,
+which are validated as an important antecedent
+predicting complementors’ continued participation in
+the ecosystem (e.g., Choi et al., 2019; Tiwana, 2015b).
+
+From the control perspective, researchers have explored
+platform openness. Studies have investigated platform
+owners’ different approaches to open a software
+platform, including granting access and giving up
+control of core technological resources to
+complementors (Boudreau, 2010). Prior literature has
+also examined the influence of platform openness on
+platform owners’ market potential (Ondrus et al., 2015)
+and innovation outcomes (Parker et al., 2017). At the
+complementor level, extant studies have conceptualized
+complementors’ perceived openness (e.g., Benlian et al.,
+2015) and examined the impacts of platform openness
+on complementors’ innovation and performance (e.g.,
+Parker & Van Alstyne, 2018).
+
+2.6 Coordination Perspective
+March and Simon (1958) claimed that since
+organizations develop programs or mutual adjustments
+to coordinate work in an organization, coordination is
+a central thesis of organization theories. While both
+control and coordination focus on realizing
+organizational or individual goals, the mechanisms are
+distinct—i.e., control tends to emphasize centralized
+authority, while coordination relies on the actions that
+allow different actors or things to work together to
+
+1528
+
+Overall, coordination issues arise at multiple levels.
+Given the layered modular architecture of software
+components (Yoo et al., 2010), the diversity of
+complementary applications (Tiwana et al., 2010), and
+the multiple sides of a platform market (Hagiu &
+Wright, 2015), platform owners and complementors
+must effectively coordinate the interdependencies
+among software components, the interconnections
+with platform owners and complementors, and the
+relationships with end users and open-source
+developers (Hagiu & Spulber, 2013; Jacobides et al.,
+2018; Tiwana, 2015b).
+
+3 Toward an Integrative
+Framework of Software
+Platforms
+Synthesizing the level of analysis in prior literature, we
+found that existing software platform studies have
+independently addressed factors at three distinct levels:
+platform owners, complementors, and ecosystems.
+
+The Building Blocks of Software Platforms
+
+Figure 1. Integrative Framework of Software Platforms
+Recognizing the interrelatedness of the levels, we focus
+on deriving an integrated framework—i.e., a multilevel
+model grounded in the software platform context, taking
+the perspective of organizational strategies and
+synthesizing previous analytical, process, and variance
+models to date. Our theoretical framework intends to
+formalize the nomological network linking software
+platforms to firm capabilities (i.e., platform capabilities
+and complementary capabilities), the platform
+ecosystem environment, and performance. Figure 1
+presents an integrated framework.
+
+3.1 Software Platform Characteristics
+3.1.1 Multisidedness
+By encouraging complementors’ participation in their
+ecosystems, software platforms form multisided
+markets where the focal software platform serves as a
+mediator between app providers and end users (Gawer,
+2014; Hagiu & Wright, 2015). The multisidedness of
+software platforms delivers two fundamental features
+that require “new” strategies in software platform
+ecosystems (Hagiu & Wright, 2015). First, multisided
+markets enable direct interactions among multiple
+sides of the software platform (Leong et al., 2019). For
+instance, iOS and Android platforms provide a
+marketplace where users can search, download, install,
+and use mobile apps developed by third-party
+developers and endorse ratings and review writing.
+Meanwhile, app developers can implement various
+targeted marketing strategies and utilize platform
+
+resources to better design products and interact with
+users. Second, each side of the software platform is
+affiliated with the focal platform. For example, video
+game platforms such as Xbox charge rents from both
+developers and users.
+
+3.1.2 Openness
+One goal of software platforms is to foster innovation
+through increased openness. Researchers in
+technology development and commercialization fields
+acknowledge that an innovator may “open” its
+technology by involving third-party complementors in
+its business processes (Shapiro & Varian, 1998).
+Openness is broadly defined as the extent to which the
+use, development, and commercialization of
+technology are unrestricted (Boudreau, 2010).
+Software platform owners provide a set of software
+components, and complementors can develop add-on
+apps by utilizing these components through standard
+interfaces (such as API and software development kits
+[SDK]) while simultaneously conforming to
+governance rules predefined by the platform owner
+(Tiwana et al., 2010). Software platforms differ in how
+much openness is embedded in their technical and
+nontechnical designs. For instance, in the mobile app
+market, Apple’s iOS is a proprietary platform. In
+contrast, Android, the competing software platform,
+chooses an open business model whereby app
+developers enjoy a free-of-charge licensing policy
+(Lee et al., 2015).
+
+1529
+
+Journal of the Association for Information Systems
+
+3.1.3 Layered Modular Architecture
+The digital artifacts embedded in software platforms are
+editable, interactive, reprogrammable, and distributable
+(Kallinikos et al., 2013). Software platforms allow
+digital components with layered modular architecture
+where software (and/or physical) resources are broken
+down into loosely coupled components interconnected
+through predefined standard interfaces and assembled
+from heterogeneous hierarchical layers (Yoo et al.,
+2010). For instance, the Hadoop software platform
+provides resources in different layers of big data and
+analytics functionalities, ranging from data storage, data
+processing, data access, and data management to
+hardware, cloud, and security infrastructure.3 Similarly,
+the iOS software platform offers boundary resources in
+layers, including core OS, core services, media, and
+Cocoa Touch.4
+
+3.2 Platform Owners: Conceptualizing
+Platform Capabilities
+We define platform capabilities as a software platform
+owner’s ability to mediate simultaneously and
+effectively between complementors and end users,
+generate innovative outcomes without significant
+platform owners’ input, evolve to serve new purposes
+and emerging possibilities, and sustain the quality of
+complementary applications. 5 Rooted in software
+platform characteristics, our framework delineates
+three dimensions of platform capabilities: (1)
+intermediarity, (2) generativity, and (3) ambidexterity,
+as shown in Path A in Figure 1. Given that the platform
+capabilities construct exists at the same level (i.e.,
+software platform level) as its dimensions and is
+conceptualized as different combinations of its
+dimensional characteristics (i.e., multisidedness,
+digital artifacts, and openness), it is theorized as a
+multidimensional construct (specifically, a profile
+model) (Law et al., 1998).
+
+3.2.1 Intermediarity
+Given the multisidedness of a software platform, it is
+necessary to recognize that software platform owners
+can make informed decisions concerning how near or
+far they are from a multisided platform-based business
+model (Hagiu & Wright, 2015). A higher level of
+multisidedness (i.e., closer to a multisided platform
+business model) can facilitate information transparency,
+reduce search costs, and foster growth through network
+3 For
+
+more details about Hadoop platform resources, see
+https://hadoopecosystemtable.github.io/
+4 For more details about the core services layer of iOS
+platform, see https://developer.apple.com/library/archive/
+documentation/MacOSX/Conceptual/OSX_Technology_Ove
+rview/CoreServicesLayer/CoreServicesLayer.html
+5 Although some pioneering studies have conceptualized
+platform capabilities, the characteristics and different
+
+1530
+
+effects (Granados et al., 2010; Greenwood & Wattal,
+2017). Meanwhile, the increased multisidedness makes
+it more difficult for software platform owners to control
+their ecosystems (Hagiu & Wright, 2015). Thus, we
+conceptualize intermediarity as a dimension of platform
+capabilities, which refers to a software platform’s
+capacity to serve efficiently as an intermediator between
+end users with heterogeneous needs and the
+complementors with diverse add-on products, services,
+and processes. By definition, intermediarity is
+determined by the extent to which each side of the
+software platform affiliates with the platform and the
+degree of enabled interactions between the different
+sides (Hagiu & Wright, 2015).
+First, to enhance participation on each side of a software
+platform, platform owners can develop social incentives
+such as learning, personal use, enjoyment, recognition,
+trend leadership and, intrinsic motivations (Aral & Van
+Alstyne, 2011; Boudreau & Jeppesen, 2015;
+Kankanhalli, Ye, & Teo, 2015) to supplement the
+monetary incentives for complementors (Parker et al.,
+2017; Tiwana, 2015a). While advanced platform
+technologies offer more developmental capabilities for
+complementors, they also can increase the challenges
+for complementors’ product development and learning
+curves (Ozalp et al., 2018). Hence, software platform
+owners need to decide on the “right” level of platform
+technologies’ quality and upgrade at the “right” time to
+sustain the affiliation of complementors.
+Second, software platform owners can design
+competitive strategies to facilitate the interactions
+between complementors and users and better match
+their preferences. For example, a common strategy is to
+adjust pricing to match complementors and end users in
+software platform markets (Baye & Morgan, 2001;
+Economides & Katsamakas, 2006). Another approach is
+to adjust the dynamics of complementors and users with
+an information transparency strategy (Granados et al.,
+2010). Platform intermediaries often face a “catch-22
+dilemma” in platform marketplaces, as information
+transparency works differently for buyers and suppliers
+(Soh et al., 2006, p. 706). Taking the example of price
+transparency, high price transparency can discourage
+sellers’ interests, while low price transparency does not
+effectively attract buyers. Such dilemmas exist in
+software platforms and platform owners should devise
+appropriate transparency strategies beyond merely
+product pricing (Granados et al., 2010).
+
+theoretical lenses were not captured simultaneously. For
+instance, with a focus on the intermediarity of software
+platforms, Karimi and Walter (2015, p. 49) theorized that
+“platform capabilities provide standards, connectivity, rules,
+and IT capabilities for mediating the production, search, and
+delivery of software content and information goods among
+users of software platforms.”
+
+The Building Blocks of Software Platforms
+
+As technologies evolve, software platform owners
+implement data analytics algorithms and recommender
+systems to match users’ needs and complementary
+products. For example, the Android platform offers a
+spotlight section entitled “Recommended for You,”
+which recommends apps that users might be interested in
+based on their installed apps and usage behaviors.
+Researchers are also developing more robust
+recommender systems for multisided software platforms
+(e.g., Malgonde et al., 2020). Apps with sophisticated
+recommendation systems increase users’ utilities
+(Montgomery et al., 2004). There are also other wellstudied platform strategies to facilitate and dynamically
+adjust the nature of interactions between complementors
+and users, including but not limited to platform quality
+(Anderson et al., 2014), platform envelopment
+(Eisenmann et al., 2011), platform compatibility with
+competing platforms in the same segments (Corts &
+Lederman, 2009), app review, and platform transition
+(Song et al., 2018).
+Third, although increasing participants’ affiliation and
+facilitating interactions can grow the software platform
+ecosystem, adverse network effects might kill the
+platform business in an exponential manner (Leong et al.,
+2019). For example, if users start to complain about the
+platform’s or its complementors’ product quality, it can
+have a cascading effect on other users and
+complementors. Prior literature has explored ways to
+manage network effects, which include but are not limited
+to: balancing competition and collaboration among
+complementors (Cusumano & Gawer, 2002), revenue
+sharing between the software platform owner and
+complementors (Oh et al., 2015), increasing
+differentiation through collaboration, functionality
+bundling (Eisenmann et al., 2011), and managing the
+boundaries of knowledge (Foerderer et al., 2019), as well
+as others such as efficiency, competence, ties, power, and
+identity (Leong et al., 2019). By enhancing platform
+leadership through strategies like these, new users gain a
+stronger sense of assurance and lower uncertainty about
+participation, strengthening the positive network effects
+(Koh & Fichman, 2014).
+In sum, we synthesized a three-step intermediarity
+improvement: (1) attracting users and complementors, (2)
+facilitating the interactions among participants to trigger
+direct and indirect network effects, and (3) managing
+positive network effects through platform leadership.
+
+3.2.2 Generativity
+The layered modular architecture enables software
+platforms to be generative by recombining existing
+components and inventing new components (Tilson et
+6 Red Queen competition refers to the escalating, continuous,
+
+and evolutionary competition that causes the differences
+between firms (Foerderer et al., 2018). Firms can sustain their
+performance relative to competitors if, and only if, they engage
+
+al., 2010). Additionally, the sociological lenses of
+natural selection theory and the Red Queen
+competition 6 demonstrate that a software platform
+must evolve to keep up with its rivals and thrive in a
+dynamic environment (Agarwal & Tiwana, 2015;
+Barnett, 2008). Hence, it is crucial for software
+platform owners to facilitate generative mechanisms
+and cultivate innovation through the ecosystem. Even
+given the same generic context for a digital artifact’s
+use, software platform owners with different
+capabilities can have different generative outcomes.
+For example, the iOS platform has very diverse
+complementary apps satisfying consumers’ differing
+needs. In contrast, a once-prominent competitor,
+Blackberry, has fewer apps that are mostly clustered in
+the productivity and utility app categories. Therefore,
+we recognize generativity as an essential dimension of
+platform capabilities and define it as the software
+platform owner’s ability to put in place the platform
+capacity to produce changes mainly driven by external
+complementors without direct input from the platform
+owner (Tilson et al., 2010; Yoo et al., 2010).
+Since the generative process is associated with digital
+artifacts and their embedded social behaviors (Avital
+& Te’eni, 2009), software platform owners can
+enhance their generativity through technical and social
+approaches. From a technical perspective, generativity
+often means embedded irreversibly in software
+platform design. Software platform owners should be
+mindful of designing their platform architecture to
+accommodate future enhancements (Baldwin &
+Woodard, 2009). For example, as data security
+becomes more critical for businesses, increasing
+numbers of software platforms such as iOS, Android,
+Firefox, and SAP are including a security layer in their
+platform architecture. An ideal platform architectural
+design supports diverse demands in the present while
+allowing for necessary changes over time (Tiwana et
+al., 2010). A software platform can be made more
+generative through layered modular architectural
+design (Yoo et al., 2010). Innovative software
+components can be triggered by recombining
+components in different layers (Tiwana et al., 2010).
+Modular design also triggers the emergence of
+ecosystems around the focal software platform,
+creating value through various complementarities
+(Jacobides et al., 2018).
+Complementors can develop strategic add-on
+applications based on various software components
+across layers. Motivated by the desire to survive in a
+hypercompetitive ecosystem, complementors can
+innovate their applications by recombining
+
+in innovative actions, which eventually leads to the situation
+of all firms engaging in competitive moves as fast as they can
+just to keep pace with competitors (Agarwal & Tiwana, 2015;
+Barnett, 2008).
+
+1531
+
+Journal of the Association for Information Systems
+
+heterogeneous software components to serve new
+purposes (Tiwana, 2015a). For instance, in enterprise
+software platform ecosystems such as SAP and
+Hadoop, complementors often reconfigure their
+products by bundling different layers such as the
+combination of security and data governance or the
+bundle of data analytics and cloud services.
+Furthermore, generativity can be achieved through
+other platform architectural choices such as
+decomposition and design rules (Tiwana et al., 2010).
+It should be recognized that transactions also play a
+vital role in shaping the software platform’s generative
+outcomes (Thomas et al., 2015).
+From a social perspective, software platform owners
+can supplement the platform architectural design with
+strategies managing ecosystem innovation. Software
+platform owners can facilitate competition among
+complementors and crowd out complementors’
+innovation incentives in several ways (Clements &
+Ohashi, 2005). For example, software platform owners
+can strategically provide APIs (Xue et al., 2019), enter
+the complementors’ market space (Foerderer et al.,
+2018; Wen & Zhu, 2019), offer selected first-party
+content (Hagiu & Spulber, 2013), control the number
+of complementors (Parker et al., 2017), add
+differentiated complementors (Boudreau, 2012), and
+adjust platform openness (Ondrus et al., 2015). Also,
+platform updates and the generational transition will
+introduce
+new
+market
+opportunities
+for
+complementors, increase competitive dynamics, and
+motivate complementors’ innovation (Kapoor &
+Agarwal, 2017). Prior literature also indicates that
+opening a proprietary software platform allows and
+facilitates same-side co-opetition in the platform
+ecosystem, leading to innovative outcomes (Niculescu
+et al., 2018).
+
+3.2.3 Ambidexterity
+Although a software platform’s openness improves its
+prospects for cultivating an innovation ecosystem,
+there are uncertainties and risks. First, uncontrolled
+creative apps may negatively affect ecosystem
+evolution (Wareham et al., 2014). Second, low-quality
+apps may result in negative user experiences and
+reviews, harming economic sustainability and social
+reputation (Boudreau, 2012). Third, the software
+platform ecosystem involves the participation of new
+complementors with new digital artifacts and social
+connections, reconfiguring the existing structure of
+power distribution and order (Leong et al., 2019). Prior
+literature has conceptualized such tension in various
+terminologies, such as generative innovation versus
+infrastructural control (Eaton et al., 2015), platform
+control versus the transfer of design capability to
+
+7 For
+
+more details about Cloudera University, see https://
+www.cloudera.com/about/training.html.
+
+1532
+
+complementors (Ghazawneh & Henfridsson, 2013),
+cocreated value versus governance costs (Huber et al.,
+2017), and evolvability-stability tension (Wareham et
+al., 2014). Strategy research refers to organizations’
+abilities to resolve tensions as “ambidexterity” and is
+more specifically focused on the balance between
+exploration (i.e., radical, discontinuous challenges)
+and exploitation (i.e., incremental, continuous
+improvements) (March, 1991; Montealegre et al.,
+2019). Accordingly, we contextualize ambidexterity as
+another dimension of platform capabilities and define
+it as the software platform owners’ capacity to
+simultaneously sustain the quality of complementary
+apps and encourage third-party contributions to
+facilitate the ecosystem’s growth.
+Prior literature has recognized the strategic roles of
+boundary resources such as APIs in reconciling tension
+whereby the software platform owner can retain
+control over the ecosystem while complementors can
+participate by utilizing these resources (Eaton et al.,
+2015; Ghazawneh & Henfridsson, 2013). Prior
+literature has demonstrated that by providing APIs,
+complementors can more efficiently use software
+platform resources and reallocate their efforts from
+copycatting fundamental functions to developing more
+original complementary apps, leading to a higher and
+more sustainable quality of the software platform
+ecosystem (Xue et al., 2019). Also, software platform
+owners commonly offer training for complementors,
+which potentially enhances complementary app
+quality by improving coding abilities and utilizing
+standard interfaces. For instance, Cloudera provides an
+in-depth training curriculum on big data and analytics
+software platforms through its Cloudera University
+program.7
+Software platform owners employ control mechanisms
+over boundary resources, which can preset the criteria,
+methods, and procedures by which complementors’
+add-on apps are evaluated, rewarded, and penalized
+(Kirsch, 1997). For example, Apple manages its iOS
+platform by adding new boundary resources or phasing
+them out (e.g., APIs, SDKs, and distribution channels)
+and executes an app review process to ensure app
+quality. The app review process restricts the types of
+complementary apps that are malicious, bandwidth
+hogs, or of low quality, etc. This control increases the
+iOS platform’s success in attracting apps,
+complementors,
+and users
+(Ghazawneh
+&
+Henfridsson, 2013). The effectiveness of input control
+mechanisms in sustaining app quality has also been
+shown in other contexts, such as the Firefox platform
+ecosystem (Tiwana, 2015a). Furthermore, software
+platform owners could implement either a control
+mechanism for all complementors (Ghazawneh &
+
+The Building Blocks of Software Platforms
+
+Henfridsson, 2013; Tiwana, 2015a) or hierarchical
+control levels that can be self-selected by
+complementors (Wareham et al., 2014). For example,
+in an extensive case study of an ERP software suite
+platform provider, Wareham et al. (2014) found that
+the platform owner provided five different levels of
+controls from which complementors could self-select.
+The level of control is positively associated with
+complementors’ available platform resources and
+certification status.
+Beyond the control mechanism, software platform
+owners can design other strategies such as
+implementing certification programs, manipulating
+decision rights allocation, and granting access to
+balance the evolvability-stability tradeoff (Boudreau,
+2010; Tiwana et al., 2010). By certifying qualified
+complementors with merit-based criteria, software
+platform owners can increase complementors’
+motivation to improve product quality (Wareham et
+al., 2014). For example, the Android platform has
+several featured apps that are recommended and
+certified by the platform. Similarly, the Cloudera
+platform offers a certification program, which features
+complementors that provide compatible and highquality products in the ecosystem.8 A similar approach
+employed by software platform owners is the
+utilization of online rating systems. Users can rate and
+write reviews for third-party apps on many software
+platforms such as iOS and Firefox. Endorsing such
+feedback mechanisms encourages complementors to
+enhance their app quality.
+Prior literature has also demonstrated that software
+platform owners do not always promote the “best in
+class” complementors; instead, they may selectively
+promote complementors that address software
+platform ecosystem tradeoffs in line with the owner’s
+interests (Rietveld, Schilling, & Bellavitis, 2019). Such
+promotion strategies simultaneously nurture selective
+complementors and shift users’ perceptions of the
+focal platform (Rietveld et al., 2019). For example, the
+iOS platform has several featured categories such as
+“Apps We Love Right Now,” “In 2020, we’ll meet new
+people …” and “We’ll be more active….” Similarly,
+Sony PlayStation features video games under the label
+of “Platinum.”
+How decision-making authority is divided between
+software platform owners and complementors affects
+the stability of the ecosystem. Decision rights
+allocation determines what complementary apps
+should do, how they should do it, and who controls the
+standard interfaces (Tiwana, 2009). Software platform
+owners can select the ecosystem’s openness by
+determining the extent to which complementors can
+use, develop, and commercialize software components
+
+without restrictions (Boudreau, 2010). A more open
+ecosystem may enjoy diverse input, ideas, and
+knowledge from a broader pool of complementors
+(Benlian et al., 2015; Boudreau, 2010; Ondrus et al.,
+2015). However, opening a software platform
+ecosystem simultaneously may reduce all parties’
+incentives to participate in the ecosystem because of
+reduced property rights (Benlian et al., 2015;
+Boudreau, 2010).
+In addition to these formal platform governance
+policies, software platform owners can assert informal
+coordination strategies to enhance ambidexterity. The
+heterogeneous participants in the software platform
+ecosystem increase agency costs (Foros et al., 2017);
+therefore, software platform owners must coordinate
+ecosystems with diverse and evolving complementors,
+users, and software components (Jacobides et al.,
+2018; Tiwana, 2015b). The software platform owner’s
+effective coordination can reduce redundancies among
+complementors’ product offerings (Wareham et al.,
+2014). Similarly, taking a network perspective, Leong
+et al. (2019) have explicitly discussed that platform
+owners need to manage interconnections at three
+distinct levels—i.e., the dyad of a platform and
+complementor relations, among different groups of
+participants, and intragroup connections. They
+proposed several strategies that platform owners could
+implement to sustain a software platform ecosystem,
+such as multiplexing platform function, expanding
+platform scope, empowering participants, curating
+platform ecosystems, and escalating platform position.
+
+3.3 Platform Complementors:
+Conceptualizing Complementary
+Capabilities
+Similar to platform capabilities, we theorize
+complementary capabilities as a multidimensional
+construct (Law et al., 1998) and define it as a software
+platform complementor’s ability to create valuable and
+novel complementary applications that are protected
+from imitation or reproduction and that can be
+interconnected to the platform artifact and other
+complementors effectively. We identify three distinct
+dimensions of complementary capabilities: (1)
+creativity,
+(2)
+interconnectivity,
+and
+(3)
+appropriability, as shown in Path B in Figure 1.
+
+3.3.1 Creativity
+A software platform ecosystem is a complex
+environment where diverse complementors and end
+users interact (Eaton et al., 2015; Parker et al., 2017).
+To satisfy end users’ varied and changing demands,
+complementors must continuously innovate their
+
+8 A list of Cloudera’s featured partners can be accessed at
+
+https://www.cloudera.com/partners/partners-listing.html.
+
+1533
+
+Journal of the Association for Information Systems
+
+offerings (Tiwana, 2015a). Given the similarity of
+many software components provided by competing
+complementors, the ability to creatively distinguish
+oneself from competitors is critical (Boudreau, 2010).
+Woodman et al. (1993, p. 293) conceptualized
+organizational creativity as “the creation of a valuable,
+useful new product, service, idea, procedure, or
+process by individuals working together in a complex
+social system.” Drawing on this organizational
+strategy literature, we consider complementary
+creativity to be a dimension of complementary
+capabilities. We define complementary creativity as
+creating a valuable and novel complementary idea,
+business model, product, service, procedure, or process
+in a software platform ecosystem.
+Creativity is critical to the growth of complementors in
+an ecosystem (Goncalo, Chatman, Duguid, &
+Kennedy, 2015). However, eliciting creativity is
+difficult since it often challenges the status quo and
+may be controversial (Amabile et al., 2005).
+Complementors should propose strategies to balance
+the tradeoff between value and novelty when designing
+their apps, processes, and business models (Amabile et
+al., 2005; Goncalo et al., 2015; Wang et al., 2016).
+Complementary creativity raises the tension between
+value and novelty, in which both divergent (i.e.,
+necessary in the creative process) and convergent (i.e.,
+critical in the post-creativity evaluation process)
+thinking exist (Chua et al., 2015; Goncalo et al., 2015).
+Creators adopt a divergent approach to produce novel
+ideas and technologies. Doing so requires creators to
+think differently, view things from an alternative
+perspective, and find inspiration from other domains
+(Amabile et al., 2005). However, at the end of the creative
+life cycle, the final product will ultimately be evaluated
+based on rational criteria (such as profitability and
+efficiency), political correctness, and accessibility
+(Goncalo et al., 2015), which all set boundary conditions
+and place limits on the divergent process (Wang et al.,
+2016; Woodman et al., 1993). It is vital to determine
+optimal distinctiveness in complementors’ product
+positioning across the software platform market
+categories. For example, prior studies have shown that
+higher exemplar similarity (i.e., similarity with highperformance competitors’ products) and low prototype
+similarity (i.e., similarity with the most common products
+in the ecosystem) are beneficial for complementors
+(Barlow et al., 2019).
+
+3.3.2 Interconnectivity
+Given the layered modular architecture of software
+platforms, complementors can design their apps to be
+architecturally modularized (i.e., loosely coupled
+software components) and connected to the focal
+platform through standardized interfaces. (Tiwana,
+2015a). Also, since organizations (especially
+entrepreneurs) often face barriers caused by limited
+
+1534
+
+resources (i.e., limitations in technical skills, human
+resources, information resources, and necessary
+knowledge), interorganizational relationships are
+useful to absorb such constraints. Therefore, we
+conceptualize interconnectivity as another dimension
+of complementary capabilities. Interconnectivity is
+defined as a complementor’s capacity to manage the
+interdependencies to the focal software platform’s
+digital artifact or other complementors in the
+ecosystem or to connect effectively.
+In software platform ecosystems, there are three levels
+of interconnectivity. First, complementors should
+design apps that will interact with the focal software
+platform’s software components through standard
+interfaces (Eaton et al., 2015; Tiwana, 2015a). Given the
+different layers and associated market categories,
+complementors’ strategic product diversification may
+have multiple impacts (Li et al., in press). For example,
+prior literature demonstrates that overall product
+diversification has spillover effects on complementors’
+revenue (Roma & Vasi, 2019). However, diversification
+into similar apps, functional variants, and other
+platforms may hurt the original app’s sustainability
+because of substitution effects (Pervin et al., 2019).
+Meanwhile, a greater variety of interconnected software
+components increases coordination costs for
+complementors (Tiwana, 2015b). However, in general,
+developing apps based on a larger number of varied
+software components at different layers can achieve
+economy of scope and enhance complementors’
+dynamic and improvisational capabilities (Bharadwaj et
+al., 2013; El Sawy et al., 2010; Karimi & Walter, 2015;
+Pavlou & El Sawy, 2010).
+Second,
+complementors
+design
+architectural
+connectedness within their own products’ architecture
+(Tiwana, 2015a, 2015b). The microarchitecture of
+complementary products plays a vital role in
+determining evolvability because a modularized
+complementary
+product
+can
+reduce
+the
+complementor’s coordination costs (Tiwana, 2015b)
+and evolve more quickly, keeping pace in a dynamic
+environment (Tiwana, 2015a).
+Third, complementors can confer information,
+knowledge, and resources through interorganizational
+relationships with other complementors in the
+ecosystem or outside players (van Angeren et al., 2016;
+Venkatraman & Lee, 2004). Based on their strategic
+orientation, internal resources, and external
+environment, complementors can build alliances to
+absorb constraints (Casciaro & Piskorski, 2005).
+Hence, complementors should employ a tactical
+approach to form interorganizational relationships
+(i.e., partnership, merger, or acquisition) as they
+determine their positions not only in the
+interorganizational network but also relative to their
+target organizations (Li et al., in press).
+
+The Building Blocks of Software Platforms
+
+3.3.3 Appropriability
+Entrepreneurs often face a crucial challenge when
+attempting to commercialize innovative ideas or
+technologies—they must choose between producing a
+stand-alone product or collaborate with incumbents
+(Gans & Stern, 2003). By joining in a software platform
+ecosystem, complementors can reduce investments on
+hard-to-duplicate complementary assets, access a more
+extensive installed base of users, conform to a set of
+quality certifications, and enhance social legitimacy
+(Ceccagnoli et al., 2012). However, the disclosure of
+ideas may increase the risk of being imitated by platform
+owners or other complementors and competitors (Gans
+& Stern, 2003). Participation in a software platform
+ecosystem
+is
+often
+achieved
+through
+an
+interorganizational relationship with the focal platform
+(Huang et al., 2013), which may cause some degree of
+unintended knowledge transfer (Khanna et al., 1998;
+Mowery, Oxley, & Silverman, 1996). Although
+unprotected knowledge can be profitably used by
+partners (Bresser, 1988), prior literature demonstrates
+the risk when software platform owners enter a
+complementors’ market segmentation by offering
+similar products (Foerderer et al., 2018; Wen & Zhu,
+2019). Hence, complementors should handle
+disclosures strategically to enhance value capture,
+suggesting appropriability as another dimension of
+complementary capabilities. We define complementary
+appropriability as a complementor’s ability to capture
+profits generated by its complementary applications
+without being imitable or reproducible (Teece, 1986).
+Innovation research has identified four frequently
+practiced types of appropriability mechanisms:
+intellectual property rights (IPRs), secrecy, lead time,
+and investment in complementary assets (James et al.,
+2013).9 First, IPRs such as patents and copyrights are
+common in exercising appropriability in high-tech
+industries and the software platform context (Arora &
+Ceccagnoli, 2006; Ceccagnoli et al., 2012). Second,
+secrecy uses internal procedures and policies to restrict
+the information flow both within and across
+organizations (Liebeskind, 1997). Secrecy regarding
+technological advantages during the patent application
+process furthers advantage (James et al., 2013). Third,
+complementors may gain lead time advantages by
+commercializing a specific technology or providing
+complementary products before their competitors. Lead
+time strategy can bring learning curve advantages,
+enhance the absorptive capacity to innovate faster than
+rivals, and better recognize, identify, and create
+technological opportunities (Ethiraj & Zhu, 2008;
+Lieberman & Montgomery, 1988). Fourth,
+complementors can invest in complementary assets such
+
+9 For a detailed discussion of each dimension of appropriability
+
+mechanisms and the institutional, industrial, organizational, and
+technological determinants, please see James et al. (2013). There
+
+as trademarks (which are often conceptualized as
+downstream capabilities, marketing capabilities, or
+product differentiation) to produce, market, and
+distribute their complementary applications (Arora &
+Ceccagnoli, 2006; Ceccagnoli et al., 2012; Gans et al.,
+2002; Teece, 1986). Specialized skills that are hard to
+transfer to other applications often are embedded in
+trademarks (Teece, 1986). Furthermore, prior studies
+suggest other value appropriability mechanisms, such as
+shifting innovation efforts among categories with
+various threat and pricing levels (Wen & Zhu, 2019).
+
+3.4 Capabilities, Environment, and
+Performance
+Having conceptualized platform and complementary
+capabilities, we theorize their dynamic interactions
+with ecosystem environments and performance. This
+results in two groups of relationships, which are
+elaborated below.
+
+3.4.1 Capability-Building and Performance
+Each platform capability has theoretical implications
+for software platform owners’ performance (i.e., Path C
+in Figure 1). First, with a higher level of intermediarity,
+software platform owners have more potent abilities to
+attract participants (i.e., complementors and end-users)
+and facilitate their interactions (Hagiu & Wright, 2015),
+promoting platform ecosystem growth through both
+direct and indirect network effects. Intermediarity
+increases information transparency and reduces search
+costs, enhancing market efficiency (Granados et al.,
+2010; Greenwood & Wattal, 2017). Second, a more
+generative software platform has a higher level of
+flexibility and the agility to update its core
+technologies, product and service offerings, and its
+ecosystem structure in response to a dynamic industrial
+and macroenvironment, consumers’ varied and
+changing preferences, and evolving technologies
+(Tiwana et al., 2010). The generativity of a software
+platform, triggered by digital artifact design or
+changing social behaviors of ecosystem players (Yoo et
+al., 2010), also motivates and attracts diverse and highquality complementors. Third, ambidexterity can boost
+software platform owners’ performance by increasing
+third-party input quality and reducing agency costs.
+Through
+effective
+platform
+governance,
+complementary apps simultaneously subsume their
+actions and outputs to create quality-control rules and
+encourage contributions to ecosystem growth
+(Wareham et al., 2014). Ambidexterity requires a wellconceived coordination policy, which will ultimately
+reduce agency costs for software platform owners.
+
+are also future research opportunities to contextualize and examine
+appropriability mechanisms in the software platform context.
+
+1535
+
+Journal of the Association for Information Systems
+
+The three dimensions of complementary capabilities
+theoretically affect the performance of software
+platform complementors (i.e., Path D in Figure 1).
+First, creative complementors can produce innovative
+products to target unserved market segments (Goncalo
+et al., 2015) and differentiate themselves from other
+complementors in a hypercompetitive software
+platform ecosystem (Chua et al., 2015; Goncalo et al.,
+2015). Our second complementary capability,
+interconnectivity,
+improves
+complementors’
+performance by increasing the availability and
+absorption of resources. Internal interconnectivity can
+reduce coordination costs (Tiwana, 2015b) and allow
+quicker evolution to serve new purposes (Tiwana,
+2015a). Complementors’ interconnectivity with a focal
+platform’s software components positively influences
+the acceleration of scope economics, enhancing
+dynamic and improvisational capabilities (Bharadwaj
+et al., 2013; El Sawy et al., 2010; Karimi & Walter,
+2015; Pavlou & El Sawy, 2010). Increased
+interconnectivity with other complementors or players
+outside the ecosystem can confer information,
+knowledge, and resources (Khanna et al., 1998;
+Mowery et al., 1996; Venkatraman & Lee, 2004).
+Third, the paradox of disclosure in software platform
+ecosystems suggests that complementors with higher
+levels of appropriability can capture profits generated
+by their complementary apps without being
+reproduced and imitated (Ceccagnoli et al., 2012; Gans
+et al., 2002; Teece, 1986). Appropriability enhances
+complementors’ ability to deter potential new entrants
+and gain sustainable competitive advantages
+(Rothaermel & Hill, 2005). Complementors with
+greater appropriability can deter imitation or use
+appropriability mechanisms to prevent entry once
+imitation happens (Gans, Hsu, & Stern, 2002).
+
+3.4.2 Coevolutionary Adaptation
+IT strategy research based on complexity theories has
+recognized
+the
+two-way
+impacts
+between
+organizational strategies and the environment, which
+may be more prevalent in software platforms (Benbya
+et al., 2020). Software platform owners deliberately
+manage the development and evolution of their
+ecosystems and, in turn, reformulate these capabilitybuilding strategies based on ecosystem environment
+attributes (i.e., Path E in Figure 1). A software
+platform’s architectural design significantly affects its
+ability to attract complementors’ participation (i.e., the
+size of the software platform ecosystem) (Tiwana et
+al., 2010)—for example, complementors are more
+likely to join a software platform ecosystem that has
+more compatible components and requires less effort
+to use. The governance rules of a software platform
+ecosystem directly affect the motivation, innovation,
+competitiveness, and performance of complementors
+(Boudreau, 2010; Huber et al., 2017; Parker & Van
+Alstyne, 2018; Tiwana, 2015a). Software platform
+
+1536
+
+owners’ other deliberate strategies, such as innovation
+incentives, adding producers (Boudreau, 2012), and
+platform generation transitions (Kapoor & Agarwal,
+2017), significantly influence complementors’
+innovation and performance. Consequently, changes
+within the ecosystem environment provoke internal
+changes in software platform owners’ organizational
+dynamics, and these factors must be considered when
+decisions are made. As evidence, extant studies have
+found that complementors can invert platform owners’
+decisions (Parker & Van Alstyne, 2018).
+Similarly,
+complementors’
+capability-building
+strategies and ecosystem environment coevolve (i.e.,
+Path F in Figure 1). A software platform ecosystem can
+be treated as a complex sociotechnical environment
+where complementors’ behaviors significantly affect
+the trajectory of ecosystem evolution (Eaton et al.,
+2015). Complementors undertake strategic actions
+such as interorganizational relationships and
+multihoming behaviors to achieve better performance
+in an unstable environment (Tanriverdi̇ & Lee, 2008).
+Complementors’ robust competitive capabilities
+bolster their reputation, attract more complementors,
+and offer more high-quality products (Parker & van
+Alstyne, 2005). Thus, complementors’ actions and
+outputs in a software platform ecosystem significantly
+influence the ecosystem environment (Parker et al.,
+2017). Conversely, the ecosystem environment defines
+the competitors, resources, consumer base, and
+boundaries of complementors in a software platform
+ecosystem (Kapoor & Agarwal, 2017). Thus,
+complementors’ capability-building strategies in a
+software platform ecosystem are constrained by the
+structure and competitiveness of the ecosystem
+environment, such as ecosystem size and diversity
+(e.g., Boudreau, 2012), complexity (Kapoor &
+Agarwal, 2017), concentration (Xue et al., 2019), and
+competing ecosystems (Zhou & Song, 2018).
+In addition to the ecosystem environment’s impact,
+platform owners’ capability-building strategies
+directly influence complementors’ competitive actions
+(i.e., Path G in Figure 1). Complementary apps directly
+connect to the platform’s software components.
+Complementors’ behaviors and outputs also are
+governed by the regulatory rules set by the software
+platform owner. Software platform owners’ strategies
+such as entering complementors’ product market
+(Foerderer et al., 2018; Wen & Zhu, 2019),
+generational transition (Kapoor & Agarwal, 2017;
+Song et al., 2018), architectural design, governance
+structure (Tiwana, 2015a; 2015b), innovation
+incentives, and adding procedures (Boudreau, 2012)
+affect how complementors can develop products and
+optimize their capabilities in the ecosystem.
+Complementors cocreate business value with platform
+owners in the software ecosystem (Ceccagnoli et al.,
+2012). The ecosystem with better fitness creates value
+
+The Building Blocks of Software Platforms
+
+for software platform owners by addressing
+consumers’
+heterogeneous
+preferences
+and
+decentralized product innovation processes. The
+ecosystem environment also shifts the software
+platform’s install base, growth opportunities, and
+competitiveness, which have been approved as
+essential antecedents of complementor performance.
+Besides these direct effects on software platform
+owners’ and complementors’ performance, the
+ecosystem environment provides a boundary condition
+for the effectiveness of building competitive
+capabilities (i.e., Paths H-K in Figure 1). For example,
+the entry of a software platform’s competitor weakens
+the positive effects of new complementors on the
+platform owner’s performance (Zhou & Song, 2018).
+
+4 Future Research Guidelines
+
+to the software platform’s unique layered modular
+architecture. The layers of the platform architecture
+confer platform resources, technical connectivity, and
+customer segments. Although complementors’
+technical architectural design directly affects their
+generativity, it could also cause unintended
+consequences on other capabilities such as
+interorganizational relationships since complementors
+need to evaluate technical complementarity when
+making partnership decisions. Future research could
+explore the dynamics of change in different
+capabilities on platform owners and complementors.
+These studies could identify the longitudinal dynamics
+and equilibriums of different capabilities to understand
+better how one strategic action cascades to other
+actions at the platform and complementor levels before
+eventually reaching a steady state.
+
+Although prior literature has recognized the role of
+innovation for software platform owners and
+complementors, the magnitude of innovation is still not
+adequately examined. For example, previous literature
+has counted the number or rate of product updates
+when measuring platform owners’ or complementors’
+innovation. There are two limitations with such a
+conceptualization: (1) it only focuses on innovation
+outcome, with the underlying mechanisms of how
+complementors achieved the innovation neglected; and
+(2) it offers little focus on whether the innovation is
+radical or incremental and how this difference impacts
+ecosystem dynamics. Future research could
+contextualize the creativity construct and its impacts
+on software platform ecosystem dynamics. Given a
+creativity construct, it may be easier to understand
+complementors’ creation of innovative products from
+a life cycle perspective and resolve the tension between
+novelty and value in the innovation process.
+
+Third, prior software platform literature has devoted
+limited attention to top management teams’ influences.
+Strategy literature has acknowledged the strategic role
+of top management in the formulation and
+consequences of organizational strategies. How top
+management teams’ background, insights, diversity,
+and structure affect the software platform strategies
+and performances and complementors merits
+examination. As depicted in our integrative
+framework, competing in the software platform
+context
+requires
+fundamentally
+different
+organizational capabilities, given the unique
+characteristics of software platforms. Hence, both
+platform owners and complementors need different
+sets of skills, mindsets, and leadership styles,
+compared to other business contexts. Future research
+could contextualize the top management team’s unique
+role in the software platform context and examine its
+performance implications. Future research could
+analyze
+the
+performance
+implications
+of
+entrepreneurs’ and top management teams’ personal
+networks or social capital since they might affect
+organizations’ abilities to acquire external resources.
+For instance, in the Hadoop software ecosystem, the
+executives of one of the most successful
+complementors, MapR Technologies, came from large
+high-tech companies such as Google, EMC, and
+Informatica.
+
+Second, platform and complementary capabilities
+dimensions are not stand-alone, and their impacts on
+performance are not isolated. In other words, prior
+literature—primarily focusing on the direct effect of
+platform or complementary capabilities on
+performance—has implicitly assumed that these
+dimensions are independent of each other. However, as
+a software platform has multiple coexisting
+characteristics, platform owners’ or complementors’
+influence on one capability dimension may change
+other capabilities. For example, complementors are
+motivated to design their technical architecture relative
+
+Fourth, current research heavily focuses on products or
+objects (e.g., platform artifacts and apps) in the
+software platform context, overlooking processes
+facilitating their development and maintenance.
+Software platforms change the process of ideation,
+prototyping, development, testing, launching, and
+updates. Unlike developing stand-alone software,
+complementors can utilize platform resources to speed
+up their prototyping and development processes but
+need to go through new platform standard
+conformances and approval from platform owners for
+product releases. Software platforms such as iOS and
+
+Building upon our integrative software platform
+framework, this section discusses future research
+directions that may fill significant gaps within each
+area of the framework and extend the framework to
+seize emerging opportunities.
+
+4.1 Tackling Organizational Capabilities
+Development
+
+1537
+
+Journal of the Association for Information Systems
+
+Firefox have also changed the process of how users
+install, access, and use applications—i.e., users need to
+install the platform first and then access add-on apps
+through within-platform transactions. Considering the
+organizational context, software platforms are often
+part of an organization’s software business strategy to
+foster open innovation or build competitive
+advantages. For example, the iOS platform has its
+unique business process, which is only a part of
+Apple’s business process. For complementors,
+participating in a software platform ecosystem requires
+them to adjust their business processes to match the
+governance model. Releasing a mobile app on iOS
+needs approval, seamless integration of the product
+with iOS, and a fast release cycle, given intense
+competition.
+We recommend that more research take a business
+process-based view while investigating the
+organizational performance of software platform
+owners and complementors, which could be more
+relevant for understanding change (Mendling et al.,
+2020) and would require researchers to conceptualize
+software platforms as business process integrators
+(Markus & Loebbecke, 2013). Future research could
+seek to improve the understanding of how software
+platforms develop as a part or extension of
+organizational business processes. How platform
+owners and complementors can optimize their business
+process management strategies and the complex
+interactions among different players’ business
+processes are questions that remain unanswered.
+Software platform research also contributes to the
+business process management stream by tackling how
+organizations can utilize software platforms to design
+and reengineer their business processes. For example,
+can organizations develop the layered modularity of
+business processes to decompose business processes
+and facilitate process recombination possibilities? If
+so, how can organizations effectively govern their
+business process-driven software platforms? Informed
+by the information systems (IS) alignment perspective,
+researchers could investigate the implications of
+alignment among software platforms, organizational
+software business strategy, business processes, IS and
+business infrastructure, and IS and organizational
+resources.
+Finally, software platform literature, driven by
+different theoretical perspectives, emphasizes
+exploring new critical capabilities for platform owners
+and complementors. However, firms may not be able
+to simultaneously pursue all these strategies because of
+constraints such as a lack of resources. Additionally,
+software platform literature primarily takes a singular
+theoretical perspective (capturing a specific subset of
+software platform characteristics). Prior research (e.g.,
+El Sawy et al., 2010; Park et al., 2020) has highlighted
+the need to capture software platforms’ multifaceted
+
+1538
+
+nature by integrating diverse theoretical perspectives.
+When a software platform ecosystem is viewed as a
+complex sociotechnical ecosystem with diverse
+agencies and digital artifacts fusing and coevolving,
+there is a need to recognize the existence of multiple
+logics for configuring competitive strategies (Eaton et
+al., 2015; Yoo et al., 2010). Thus, a shift from
+individual causal elements to the configurations or
+interactions among them (Andriani & McKelvey,
+2009) is needed. Future research should explore the
+theoretical multiplicity (Park et al., 2020)—i.e., how
+different perspectives complement or compete to
+explain and predict the software platform
+phenomenon. Some research questions include, for
+example: What are the best combinations of strategies
+or capabilities that firms can employ to maximize their
+outcomes? Which capability is the necessary condition
+that “must” be possessed for platform owners and
+complementors to succeed?
+One possible direction is to develop configurational
+theories of organizational capabilities for software
+platform owners and complementors. The capabilities
+metrics and strategies synthesized in this research offer
+a building block for such future studies. Methodologywise, future research could utilize the advancement of
+the qualitative comparative analysis (QCA) approach
+(El Sawy et al., 2010). The QCA method provides
+insights into the conjunctions of multiple variables that
+influence performance, necessary conditions showing
+whether a variable is prerequisite in all possible
+configurational solutions, the asymmetry of
+configurations leading to high versus low
+performance, and the parsimonious configurations
+categorizing each variable as a core, peripheral,
+presence, or absence (Fiss, 2011). IS studies have
+begun to exploit this method to develop
+configurational theories (e.g., Park & Mithas, 2020)
+and offer conceptual frameworks and prescriptive
+guidelines (Park et al., 2020). We encourage future
+research to develop contextualized configurational
+theories in the software platform context.
+
+4.2 Enriching Environmental Dynamics
+The software platform ecosystem environment is
+assumed to be an exogenous factor in most previous
+studies. However, the ecosystem environment is often
+cocreated by complementors with diverse strategic
+moves driven by their survival motivations and sensing
+of opportunities and environmental changes. Given the
+endogenous ecosystem environment, future research
+can aim towards understanding how platform owners’
+strategies (such as governance, architectural design,
+and platform transitions) influence complementors’
+reactions and the nonlinear restructuration of software
+platform ecosystems. For example, theorizing the
+process by which complementors’ strategies evolve
+over time and correspondingly cocreate ecosystem
+
+The Building Blocks of Software Platforms
+
+environments reshaping platform owners’ strategies
+appears to be a promising research path. Several
+theoretical lenses, including path constitution theories
+(Singh et al., 2015), event systems theory (Morgeson
+et al., 2015), and complexity theories (Benbya et al.,
+2020), provide starting points. Future research might
+consider using sequential mining (Sabherwal &
+Robey, 1993; van de Ven, 1992), QCA (El Sawy et al.,
+2010), vector autoregression, and multimethod
+approaches.
+Although Tiwana et al. (2010) introduced the
+macroenvironment as a significant component in their
+software platform framework, the macroenvironment
+remains understudied in the literature. We identify
+additional major macroenvironmental factors that could
+offer fresh insights for future research. Software
+platforms are changing over time, fueled by emergent
+technologies. For example, the Hadoop software
+platform originates from where big data and analytics
+emerged onto the market, offering the technical
+resources of distributed file systems, MapReduce
+framework, data analytics task coordination, etc. The
+Hadoop platform and its complementors have shown a
+fast path in integrating emerging technologies. 10 In
+contrast, software platform ecosystems have shown
+their unique contributions in facilitating the
+development of new and advanced technologies. Taking
+artificial intelligence (AI) as an example, major software
+platforms such as Microsoft Cognitive Services,
+Amazon Lex, and TensorFlow provide the core
+resources for AI application development, significantly
+speeding up AI’s maturity. Thus, it is vital to understand
+how emerging technologies create opportunities for
+software platform businesses and how software
+platform
+ecosystems
+promote
+technology
+advancements. Future research could utilize a software
+platform’s technology adoption event and advancement
+trajectories as an experimental opportunity to
+investigate the subsequent development of the
+technology and platform complementors’ strategies and
+performance. Gartner’s technology hype cycle provides
+a useful source to quantify the trajectories of technology
+development, which can be matched to milestone
+updates of relevant software platforms.
+Furthermore,
+software
+platforms
+facilitate
+collaborations and competitions among firms in
+various industry sectors. Strategy literature has
+primarily conceptualized industry characteristics as
+environmental factors but has not adequately explained
+how software platforms disrupt industry boundaries.
+How do associated industries influence the
+development and evolution of software platform
+ecosystems? Future research could also examine how
+
+10 For instance, Hadoop complementors such as Joyent and
+
+SkyTap integrate cloud computing with the Hadoop platform.
+Complementors such as Dataguise, CitiusTech, and many
+
+the software platform ecosystem structure changes the
+categorization of organizations based on industries.
+Since
+platform
+complementors
+pursue
+interorganizational strategic alliances, they form
+collaborative relationships inside (i.e., alliances among
+existing complementors) and outside (i.e., existing
+complementors’ alliances with external firms who are
+not participating in the ecosystem) the software
+platform ecosystem. Such collaborative ties shift the
+ecosystem boundaries and confer the flow of
+information, knowledge, and resources. Thus, future
+studies could examine how collaborative instead of
+competitive environmental attributes influence
+software platform ecosystem dynamics and
+performance. Future research could go beyond this by
+examining the coexistence of competitive and
+collaborative environments. For example, software
+platform owners and complementors often form
+collaborative relationships with their competitors,
+which are sometimes referred to as “frenemies.”
+
+4.3 Questing for New Dependent
+Variables
+The generic dependent variable examined in prior
+software platform literature is platform owners’ and
+complementors’ performance. Researchers have used
+various measures to signify performance. For example,
+common performance measures include operational
+and financial performance such as market demand,
+revenue, and profit (e.g., Anderson et al., 2014;
+Eisenmann et al., 2011; Hagiu, 2006; Zhu & Iansiti,
+2012), as well as innovation outcomes such as adding
+of new features, product variety, and new product
+development (e.g., Foerderer et al., 2018; Wen & Zhu,
+2019). Additionally, prior literature has theorized the
+importance of organizational fitness relative to
+ecosystem environments, such as evolution rate and
+evolutionary trajectories (e.g., Tiwana, 2015a; Tiwana
+et al., 2010). A favorable positioning in the
+ecosystem’s network also increases organizations’
+access to external resources, information, and
+knowledge (Vasudeva et al., 2013).
+Overall, these performance indicators are identical to
+those commonly examined in non-platform-based
+contexts. Essentially, using these performance
+indicators may implicitly raise the assumption that the
+goal or evaluation criteria for software platform
+owners and complementors are the same as with
+“traditional” non-platform-based organizations. To
+unleash such a fundamental premise, we suggest that
+future research uniquely conceptualize the goal or
+performance metrics for software platforms. For
+
+others have enriched the Hadoop ecosystem by offering
+security features. Cloudera and Hortonworks, among others,
+have undertaken special initiatives to leverage the power of AI.
+
+1539
+
+Journal of the Association for Information Systems
+
+instance, competitive advantages can come from the
+effective use and monetization of data. Software
+platforms have access to their diverse complementors’
+streaming data and information about their customers.
+Thus, the size and actualization of data assets could be
+a new relevant dependent variable. A grounded theory
+approach with qualitative interviews or a thorough
+literature review could be a good starting point to
+explore this dependent variable.
+As software platform ecosystems evolve, platform
+owners and complementors are likely to have different
+goals. For example, software platform owners might
+be more interested in growing the ecosystem size (i.e.,
+more complementors and users) and in the diversity of
+complementary apps at the early stage of the
+ecosystem development but are likely to pursue highquality complementary apps as the ecosystem evolves
+to a mature stage. Future research taking a software
+platform ecosystem life cycle perspective and
+conceptualizing the unique dynamic performance
+indicators at different software platform ecosystem
+stages could be insightful.
+
+4.4 Attention on Open Source and
+Entrepreneurial Software Platforms
+Research context matters; it sets the constraints and
+situational opportunities that influence organizational
+strategies’ formulation and consequences and has
+potential moderating effects (Johns, 2006). The
+commonality of software platform contexts studied in
+the current literature (see Table A3) is that they tend to
+focus on proprietary software platforms (such as
+Firefox, SAP, iOS, and Android) owned by public and
+commercial firms. However, software platforms can
+also be held as open source communities or by
+entrepreneurial firms. For example, the leading big
+data and analytics software platform is managed by a
+set of Hadoop-related open source projects such as
+HDFS, MapReduce, HBase, Hive, and Pig. Many
+software startups such as Speechly (spoken language
+understanding platform) and Mythical Games
+(blockchain-based games platform connecting game
+developers and content creators) launched with
+platform-based business models. Open source-based
+and entrepreneurial software platforms enable
+researchers to intersect the software platform
+phenomenon with other interesting settings and
+assumptions, offering future research opportunities.
+If the software platform owner is an open source
+community, governance decisions and boundary
+resources are defined and reshaped by the collectives.
+
+11 https://www.cloudera.com/about/news-and-blogs/press-
+
+releases/2019-01-03-cloudera-and-hortonworks-completeplanned-merger.html.
+
+1540
+
+How collective decisions influence complementors’
+competitive strategies and the evolution of software
+platform ecosystems is worth investigating. Also,
+complementors are more likely to contribute back to
+the software platform resources. For instance, in the
+Hadoop software platform context, leading
+complementors such as Hortonworks and Cloudera
+have open sourced many of their components and
+added them to the Hadoop platform resources. These
+complementors often have designated employees as
+active developers for Hadoop open source projects.
+Thus, future research might focus on the dynamics and
+interactive effects among complementors’ strategies,
+the growth and evolution of open source software
+platform resources, and the ecosystem evolution. This
+will require researchers to bridge the literature on open
+source software communities, firm strategies, and
+software platform ecosystem evolution.
+In open source software platform ecosystems, things
+can
+get
+complicated—for
+example,
+some
+complementors integrate software components
+obtained from the open source community and develop
+interfaces and standards that can be used by third-party
+developers to initiate an offspring software platform
+inside the ecosystem—in essence, forming a platform
+inside a platform. For instance, leading Hadoop
+software platform complementors such as Cloudera
+and MapR Technologies offer their versions of
+Hadoop-based
+software
+platforms.
+Other
+complementors can join the Hadoop ecosystem by
+utilizing the Hadoop open source software projects or
+participating with one of the platforms-inside-a
+platform offspring. In examining the tensions posed by
+complementors, such strategic choices are of
+theoretical and practical value.
+For contexts in which the software platform owner is a
+startup, researchers might be interested in comparing
+how the mechanisms of attracting complementors are
+different from public firms’ software platform
+initiation. Entrepreneurial software platform owners
+typically face several milestone challenges such as
+receiving funding, being acquired, serial acquisitions,
+horizontal mergers with competing or complementary
+software platforms, and IPOs that can be studied. For
+example, Hortonworks and Cloudera went IPO and
+then engaged in horizontal mergers to seek synergies
+and complement each other’s competitiveness in AI.11
+Future research could study how these software
+platform-level strategic moves affect complementors’
+motivations, strategies, ecosystem evolution and
+growth, and two-sided network effects dynamics.
+
+The Building Blocks of Software Platforms
+
+4.5 Research Opportunities on AIPlatform Integration
+The prevalence of AI technologies is triggering the
+emergence of next-generation software platforms,
+“propagating important questions for IS researchers”
+(Rai et al., 2019, p. iii). Many software platforms have
+deployed AI technologies. For example, Google has
+shifted its focus from “Mobile First” to “AI First” by
+providing many development tools to incorporate AI
+into Android app development. 12 Firefox adds AI to
+improve its abilities of personalized recommendations
+and to manage bug reports. 13 With these AI
+functionalities offered at the software platform level,
+complementors can access more supporting tools, such
+as text recognition, touch identification, face detection,
+speech recognition, image labeling, and landmark
+detection. For instance, the mobile app Mezi makes
+travel arrangements and recommendations by
+processing users’ messages of requests such as
+restaurant, hotel, and flight reservations, which
+extensively utilizes natural language processing (NLP)
+and the learning of customer preferences. Founded in
+2015, Mezi was quickly and successfully acquired by
+American Express.14
+Rai et al. (2019) call for future IS research at the
+intersection of AI and digital platforms in an MIS
+Quarterly editorial comment. They discuss human-AI
+hybrids at the task level in detail and accordingly
+suggest implications for IS research using the digital
+labor platform as an example. Extending the lens of
+network effects, Gregory et al. (2021) theorize data
+network effects and develop a nomological network
+model delineating the positive impacts of AI capability
+on perceived user value, moderated by data
+stewardship, platform legitimation, and user-centric
+design. Inspired by these pioneering contributions, we
+identify future research opportunities by building on
+our framework (Figure 1). We encourage research
+explaining how software platform owners and
+complementors can utilize AI to create competitive
+capabilities and gain competitive advantages in the
+software platform ecosystem.
+The effectiveness of AI technologies largely depends on
+the strategic use of data, including collecting, cleaning,
+and analyzing data and the generation, integration, and
+effective use of information. Providing AI support tools
+in the software platform’s boundary resources adds a
+data layer to their existing layered modular architecture.
+12 https://www.appsbee.com/blog/role-of-artificial-intelligence-
+
+in-android-app-development/
+13 https://www.theinquirer.net/inquirer/news/3037328/mozillauses-ai-to-serve-up-suggested-content-in-firefox; and https://
+www. techrepublic.com/article/how-mozilla-uses-ai-tomanage-firefox-bug-reports/
+14 For more details about American Express’s acquisition of Mezi,
+see https://about.americanexpress.com/press-release/american-
+
+Thus, data centricity and intelligence are unique
+characteristics of AI-driven software platforms. Given
+the complexity of data, software platform owners need
+to implement an effective data governance strategy.
+Building on our integrated software platform
+framework, future research could go beyond platform
+governance strategies such as control and coordination
+to emphasize data governance. For example, one crucial
+question needing immediate answers is how software
+platforms can sustain the data quality of complementary
+apps’ input, output, and interactions. It is also critical to
+understand how software platform owners split data
+ownership among the platform, customers, and
+complementors. When a software platform is
+transforming to a new AI- and data-driven focus, it is
+necessary for software platform owners to have
+supporting strategies to manage data privacy, ethics, and
+security (Rai et al., 2019).
+Software platform owners will create business value by
+integrating AI components in their platform resources.
+One potential future study would be to examine how
+software platform owners and complementors trigger
+the recombination and generative mechanisms between
+the data layer and other layers of software components.
+Addressing these issues will require researchers to better
+understand software platform technical design—for
+example, how to optimize layers after adding the data
+layer. A related research area is the synergy of software
+platforms and open data initiatives. Future research
+could examine how software platform owners can better
+initiate open data and bridge it with the core software
+platform’s boundary resources. Furthermore, software
+platform owners and complementors should have
+competent leaders in the AI age. For example, Apple
+appointed a senior vice president of machine learning
+and AI strategy to support its iOS software platform.15
+Future studies might investigate the relationship
+between AI leaders’ positions on the executive board
+and software platform evolution ecosystem dynamics to
+tease out the strategic impacts.
+There are enormous opportunities for conducting
+natural experiments by utilizing software platforms’
+initiation of AI technologies and examining how it
+influences complementors’ strategies and performance
+and the software platform ecosystem evolution. Possible
+experiment sites include but are not limited to Android,
+iOS, Firefox, and the mergers of Hortonworks and
+Cloudera for AI purposes.
+
+express-acquires-mezi. In addition, there are many other AI-driven
+mobile apps for Android and iOS platforms—see https://bigdatamadesimple.com/13-smartest-ai-driven-apps-for-ios-and-android/
+for a shortlist.
+15 https://www.zdnet.com/article/apple-says-artificial-intelligenceand-machine-learning-critical-area-as-it-promotes-ai-chief/
+
+1541
+
+Journal of the Association for Information Systems
+
+Table 1. Future Research Agenda
+Direction
+1. Attention to the
+creativity construct
+2. Exploring interactions
+among capabilities
+dimensions
+
+•
+
+3. Attention to top
+management teams’
+influences
+
+•
+
+•
+•
+
+•
+•
+
+4. Taking business process
+and IS alignment views
+
+5. Developing
+configurational theories of
+software platforms
+6. Emergent ecosystem
+environment
+
+7. Macroenvironment
+factors
+
+8. Collaborative
+ecosystem environment
+
+9. Contextualizing new
+dependent variables
+
+10. Examining open
+source community-owned
+software platform
+
+11. Examining startups
+owned software platform
+
+1542
+
+•
+•
+•
+•
+•
+
+Sample research questions
+Software platform owners’ and complementors’ capabilities
+How do we contextualize software platform complementors’ creativity and understand its
+impacts on complementor performance?
+How do software platform complementors’ product strategies and interfirm alliance
+strategies mutually influence each other and jointly affect their performance?
+How do platform owners’ and complementors’ strategies coevolve in a software platform
+ecosystem?
+What top management teams’ skills, mindsets, and leadership styles are more important in a
+software platform context?
+How does the top management team influence software platform owners’ and complementors’
+performance?
+How does top management teams’ social capital influence software platform owners’ and
+complementors’ performance?
+How do we conceptualize software platforms as business process integrators?
+What is unique about business process management in the software platform context?
+How can organizations adopt a software platform-based business model to manage business
+processes?
+How can we contextualize IS alignment theory in the software platform context?
+How can software platform owners and complementors configure capabilities to achieve
+higher performance?
+
+Software platform ecosystem environmental dynamics
+How do complementors’ competitive strategies result in the shift of software platform
+ecosystem environment, and how are the effectiveness of their strategies and reformulation
+of competitive strategies restricted by such emergent environmental changes?
+•
+How do platform owners’ strategies influence complementors’ reactions and the non-linear
+restructuration of the software platform ecosystem?
+•
+What is the process of complementors’ strategies change over time and, correspondingly, how
+does the cocreated ecosystem environment reshape software platform owners’ strategies?
+•
+How do platform businesses cope with emerging technologies, and how does software
+platform ecosystems' development promote the advancement of technologies?
+•
+How do associated industries influence the development and evolution of software platform
+ecosystems?
+•
+How do collaborative environmental attributes influence the software platform ecosystem
+dynamics and performance of platform owners and complementors?
+•
+How does the coexistence of competitive and collaborative environments influence software
+platform owners’ and complementors’ performance?
+Software platform owners’ and complementors’ performance
+•
+How can we conceptualize the goal or unique performance metric in the software platform
+context?
+•
+What are the unique dynamic performance indicators at different stages of a software
+platform ecosystem?
+Software platform research context
+•
+How do collective decisions influence complementors’ competitive strategies and the
+evolution of open source community-owned software platform ecosystems?
+•
+What are the dynamics and interactive effects among complementors’ strategies, the growth
+and evolution of open source software platform resources, and the evolution of an open source
+community-owned software platform ecosystem?
+•
+How can firms develop and strategize a software platform based on an open source
+community-owned platform ecosystem?
+•
+In the “platform-inside-platforms” case, how do complementors decide to join the parent or
+offspring software platform ecosystems?
+•
+How are the mechanisms of attracting complementors to startup-owned software platforms
+different from well-established firms’ software platform initiation?
+•
+How do startup-owned software platforms’ strategic moves such as IPO, funding, and
+acquisition affect complementors’ motivations, strategies, ecosystem evolution and growth,
+and two-sided network effects dynamics?
+•
+
+The Building Blocks of Software Platforms
+
+12. Examining data
+governance
+
+•
+•
+•
+
+13. Understanding data
+security in the platform
+context
+
+•
+•
+
+14. Examining data
+synergy
+
+•
+•
+
+15. Examining AI
+leadership and quantifying
+AI impacts
+
+•
+•
+
+Integrating AI in software platforms
+How does software platform owners’ data governance strategy influence their performance
+and ecosystem evolution?
+How can software platforms sustain data quality of the complementary apps’ input, output,
+and interactions?
+How do software platform owners split the ownership of data among the platform, customers,
+and complementors?
+How can we conceptualize data security in the software platform context?
+Are there two-sided network effects of security management in the software platform context?
+If so, how do software platform owners manage security externalities?
+How can software platform owners and complementors trigger the recombination and
+generative mechanisms between data layers and other software components layers?
+How can software platform owners initiate open data and bridge it with core software
+platform’s boundary resources?
+How does AI leaders’ position on the executive board influence the dynamics of the software
+platform ecosystem?
+How do software platforms’ AI initiations influence complementors’ strategies and
+performance and the platform ecosystem evolution?
+
+It would also be valuable to understand the speed and
+trajectories of complementors’ convergence of AI
+utilization and their strategic implications for
+stakeholders. The combination of novel NLP
+techniques, experimental and econometrics empirical
+design, and theorization would offer rigorous
+theoretical and empirical contributions.
+
+4.6 Future Research Agenda
+Table 1 summarizes future research directions and
+sample research questions, as discussed above. While
+we do not claim our assessment is definitive, we hope
+that the proposed future research agenda motivates
+software platform researchers and offers a starting
+point for future studies.
+
+5 Conclusion
+With an organizing review approach (Leidner, 2018),
+we conceptualized platform and complementary
+capabilities, derived an integrative framework of
+software platforms delineating the dynamics of
+capabilities,
+ecosystem
+environment,
+and
+performance, and accordingly discussed future
+research opportunities. This paper theoretically
+contributes to the growing body of software platform
+research. We are among the first to theorize a
+multilevel framework of software platforms from the
+organizational strategy perspective. In doing so, we
+bridge the disjointed software platform literature at
+
+different levels (i.e., platform, complementor, and
+ecosystem) and shed light on the theoretical
+understanding of unique competitive capabilities in the
+software platform context. Our integrative framework
+(Figure 1) serves as an essential building block toward
+developing unique and grounded software platform
+theories. The framework was derived from validated
+theoretical hypotheses in prior studies, thus reflecting
+what we know about software platforms. In addition to
+the suggested future research guidelines, future studies
+could utilize our framework as a theoretical foundation
+to develop testable hypotheses at various levels using
+different theory structures and empirical methods.
+Although positioned as theoretical research, this paper
+offers practical implications for organizations
+competing in a software platform context. We
+synthesized dimensions of platform and complementary
+capabilities and elaborated actionable strategies to
+improve each dimension and business examples. In this
+way, practitioners (i.e., both software platform owners
+and complementors) can use our research as a checklist
+for strategy development. The nomological network
+concerning the dynamics of capabilities, ecosystem
+environment, and performance provides a mental
+schema for organizations competing in a software
+platform ecosystem. Hopefully, the integrative
+framework, proposed future research agenda, and
+practical illustrations will provide a stimulus for
+research and practice on software platforms.
+
+1543
+
+Journal of the Association for Information Systems
+
+References
+Adner, R. (2017). Ecosystem as structure: An actionable
+construct for strategy. Journal of Management,
+43(1), 39-58.
+Afuah, A. (2013). Are network effects really all about
+size? The role of structure and conduct. Strategic
+Management Journal, 34(3), 257-273.
+Agarwal, R., & Tiwana, A. (2015). Evolvable systems:
+Through the looking glass of IS. Information
+Systems Research, 26(3), 473-479.
+Amabile, T. M., Barsade, S. G., Mueller, J. S., & Staw, B.
+M. (2005). Affect and creativity at work.
+Administrative Science Quarterly, 50(3), 367403.
+Anderson, E. G., Parker, G. G., & Tan, B. (2014).
+Platform performance investment in the presence
+of network externalities. Information Systems
+Research, 25(1), 152-172.
+Andriani, P., & McKelvey, B. (2009). Perspective–From
+Gaussian to Paretian thinking: Causes and
+implications of power laws in organizations.
+Organization Science, 20(6), 1053-1071.
+Aral, S., & Van Alstyne, M. (2011). The Diversitybandwidth trade-off. American Journal of
+Sociology, 117(1), 90-171.
+Armstrong, M. (2006). Competition in two-sided
+markets. RAND Journal of Economics, 37(3),
+668-691.
+Arora, A., & Ceccagnoli, M. (2006). Patent protection,
+complementary assets, and firms’ incentives for
+technology licensing. Management Science,
+52(2), 293-308.
+
+Basole, R. C., & Park, H. (2019). Interfirm collaboration
+and firm value in software ecosystems: Evidence
+from cloud computing. IEEE Transactions on
+Engineering Management, 66(3), 368-380.
+Baye, M. R., & Morgan, J. (2001). Information
+gatekeepers on the internet and the
+competitiveness of homogeneous product
+markets. American Economic Review, 91(3), 454474.
+Benbya, H., Nan, N., Tanriverdi, H., & Yoo, Y. (2020).
+Complexity and information systems research in
+the emerging digital world. MIS Quarterly, 44(1),
+1-17.
+Benlian, A., Hilkert, D., & Hess, T. (2015). How open is
+this platform? The meaning and measurement of
+platform openness from the complementors’
+perspective. Journal of Information Technology,
+30(3), 209-228.
+Bharadwaj, A., El Sawy, O. A., Pavlou, P. A., &
+Venkatraman, N. (2013). Visions and voices on
+emerging challenges in digital business strategy.
+MIS Quarterly, 37(2), 633-661.
+Boland, R. J., Lyytinen, K., & Yoo, Y. (2007). Wakes of
+innovation in project networks: The case of digital
+3-D representations in architecture, engineering,
+and construction. Organization Science, 18(4),
+631-647.
+Boudreau, K. (2010). Open platform strategies and
+innovation: Granting access vs. devolving control.
+Management Science, 56(10), 1849-1872.
+Boudreau, K. (2012). Let a thousand flowers bloom? An
+early look at large numbers of software app
+developers and patterns of innovation.
+Organization Science, 23(5), 1409-1427.
+
+Avital, M., & Te'eni, D. (2009). From generative fit to
+generative capacity: Exploring an emerging
+dimension of information systems design and task
+performance. Information Systems Journal, 19(4),
+345-367.
+
+Boudreau, K., & Jeppesen, L. B. (2015). Unpaid crowd
+complementors: The platform network effect
+mirage. Strategic Management Journal, 36(12),
+1761-1777.
+
+Baldwin, C. Y., & Clark, K. B. (2000). Design Rules: The
+Power of Modularity. MIT Press.
+
+Bresser, R. K. F. (1988). Matching collective and
+competitive strategies. Strategic Management
+Journal, 9(4), 375-385.
+
+Baldwin, C. Y., & Woodard, C. J. (2009). The
+architecture of platforms: A unified view. In A.
+Gawer (Ed.), Platforms, markets and innovation
+(pp. 19-44). Edward Elgar.
+Barlow, M. A., Verhaal, J. C., & Angus, R. W. (2019).
+Optimal distinctiveness, strategic categorization,
+and product market entry on the Google Play app
+platform. Strategic Management Journal, 40(8),
+1219-1242.
+Barnett, W. P. (2008). The Red Queen among
+organizations: How competitiveness evolves.
+Princeton University Press.
+
+1544
+
+Breznitz, D., Forman, C., & Wen, W. (2018). The role of
+venture capital in the formation of a new
+technological ecosystem: Evidence from the
+cloud. MIS Quarterly, 42(4), 1143-1169.
+Casciaro, T., & Piskorski, M. J. (2005). Power imbalance,
+mutual dependence, and constraint absorption: A
+closer look at resource dependence theory.
+Administrative Science Quarterly, 50(2), 167199.
+Ceccagnoli, M., Forman, C., Huang, P., & Wu, D. J.
+(2012). Cocreation of value in a platform
+
+The Building Blocks of Software Platforms
+
+ecosystem: The case of enterprise software. MIS
+Quarterly, 36(1), 263-290.
+
+software industry. Management Science, 52(7),
+1057-1071.
+
+Cennamo, C., Ozalp, H., & Kretschmer, T. (2018).
+Platform architecture and quality trade-offs of
+multihoming complements. Information Systems
+Research, 29(2), 461-478.
+
+Eisenmann, T. (2006). Internet companies’ growth
+strategies: Determinants of investment intensity
+and
+long-term
+performance.
+Strategic
+Management Journal, 27(12), 1183-1204.
+
+Cennamo, C., & Santalo, J. (2013). Platform competition:
+Strategic trade-offs in platform markets. Strategic
+Management Journal, 34(11), 1331-1350.
+
+Eisenmann, T., Parker, G., & Van Alstyne, M. (2011).
+Platform envelopment. Strategic Management
+Journal, 32(12), 1270-1285.
+
+Choi, G., Nam, C., & Kim, S. (2019). The impacts of
+technology platform openness on application
+developers’ intention to continuously use a
+platform: From an ecosystem perspective.
+Telecommunications Policy, 43(2), 140-153.
+
+Eisenmann, T., Parker, G., & Van Alstyne, M. W. (2006).
+Strategies for two-sided markets. Harvard
+Business Review, 84(10), 92-101.
+
+Chua, R. Y. J., Roth, Y., & Lemoine, J.-F. (2015). The
+impact of culture on creativity: How cultural
+tightness and cultural distance affect global
+innovation crowdsourcing work. Administrative
+Science Quarterly, 60(2), 189-227.
+Clark, K. B. (1985). The interaction of design hierarchies
+and market concepts in technological evolution.
+Research Policy, 14(5), 235-251.
+Clements, M. T. (2004). Direct and indirect network
+effects: Are they equivalent? International
+Journal of Industrial Organization, 22(5), 633645.
+Clements, M. T., & Ohashi, H. (2005). Indirect network
+effects and the product cycle: Video games in the
+U.S., 1994-2002. Journal of Industrial
+Economics, 53(4), 515-542.
+Corts, K. S., & Lederman, M. (2009). Software
+exclusivity and the scope of indirect network
+effects in the U.S. home video game market.
+International Journal of Industrial Organization,
+27(2), 121-136.
+Cusumano, M. A., & Gawer, A. (2002). the elements of
+platform leadership. MIT Sloan Management
+Review, 43(3), 51-58.
+de Reuver, M., Sørensen, C., & Basole, R. C. (2018). The
+digital platform: A research agenda. Journal of
+Information Technology, 33(2), 124-135.
+Demsetz, H. (1997). The economics of the business firm:
+Seven critical commentaries. Cambridge
+University Press.
+Eaton, B., Elaluf-Calderwood, S., Sørensen, C., & Yoo,
+Y. (2015). Distributed tuning of boundary
+resources: The case of Apple’s iOS service
+system. MIS Quarterly, 39(1), 217-243.
+Economides, N., & Katsamakas, E. (2006). Two-sided
+competition of proprietary vs. open source
+technology platforms and the implications for the
+
+El Sawy, O. A., Malhotra, A., Park, Y., & Pavlou, P. A.
+(2010). Seeking the configurations of digital
+ecodynamics: It takes three to tango. Information
+Systems Research, 21(4), 835-848.
+Ethiraj, S. K., & Zhu, D. H. (2008). Performance effects
+of imitative entry. Strategic Management Journal,
+29(8), 797-817.
+Faraj, S., & Xiao, Y. (2006). Coordination in fastresponse organizations. Management Science,
+52(8), 1115-1169.
+Fiss, P. C. (2011). Building better causal theories: A fuzzy
+set approach to typologies in organization
+research. Academy of Management Journal,
+54(2), 393-420.
+Foerderer, J., Kude, T., Mithas, S., & Heinzl, A. (2018).
+Does platform owner's entry crowd out
+innovation? Evidence from Google Photos.
+Information Systems Research, 29(2), 444-460.
+Foerderer, J., Kude, T., Schuetz, S. W., & Heinzl, A.
+(2019). Knowledge boundaries in enterprise
+software platform development: Antecedents and
+consequences
+for
+platform
+governance.
+Information Systems Journal, 29(1), 119-144.
+Foros, Ø., Kind, H. J., & Shaffer, G. (2017). Apple’s
+agency model and the role of most-favored-nation
+clauses. RAND Journal of Economics, 48(3), 673703.
+Gans, J. S., Hsu, D. H., & Stern, S. (2002). When does
+start-up innovation spur the gale of creative
+destruction? RAND Journal of Economics, 33(4),
+571-586.
+Gans, J. S., & Stern, S. (2003). The product market and
+the market for “ideas”: Commercialization
+strategies for technology entrepreneurs. Research
+Policy, 32(2), 333-350.
+Gawer, A. (2014). Bridging differing perspectives on
+technological platforms: Toward an integrative
+framework. Research Policy, 43(7), 1239-1249.
+
+1545
+
+Journal of the Association for Information Systems
+
+Ghazawneh, A., & Henfridsson, O. (2013). Balancing
+platform control and external contribution in
+third-party development: The boundary resources
+model. Information Systems Journal, 23(2), 173192.
+
+Huber, T. L., Kude, T., & Dibbern, J. (2017). Governance
+practices in platform ecosystems: Navigating
+tensions between cocreated value and governance
+costs. Information Systems Research, 28(3), 563584.
+
+Ghose, A., & Han, S. P. (2014). Estimating demand for
+mobile applications in the new economy.
+Management Science, 60(6), 1470-1488.
+
+Jacobides, M. G., Cennamo, C., & Gawer, A. (2018).
+Toward a theory of ecosystems. Strategic
+Management Journal, 39(8), 2255-2276.
+
+Goncalo, J. A., Chatman, J. A., Duguid, M. M., &
+Kennedy, J. A. (2015). Creativity from constraint?
+How the political correctness norm influences
+creativity in mixed-sex work groups.
+Administrative Science Quarterly, 60(1), 1-30.
+
+James, S. D., Leiblein, M. J., & Lu, S. (2013). How firms
+capture value from their innovations. Journal of
+Management, 39(5), 1123-1155.
+
+Granados, N., Gupta, A., & Kauffman, R. J. (2010).
+Information transparency in business-toconsumer markets: Concepts, framework, and
+research agenda. Information Systems Research,
+21(2), 207-226.
+Greenwood, B. N., & Wattal, S. (2017). Show me the way
+to go home: An empirical investigation of ridesharing and alcohol related motor vehicle
+fatalities. MIS Quarterly, 41(1), 163-187.
+Gregory, R. W., Henfridsson, O., Kaganer, E., &
+Kyriakou, H. (2021). The role of artificial
+intelligence and data network effects for creating
+user value. Academy of Management Review,
+46(3), 534-551.
+
+Johns, G. (2006). The essential impact of context on
+organizational behavior. The Academy of
+Management Review, 31(2), 386-408.
+Kallinikos, J., Aaltonen, A., & Marton, A. (2013). The
+ambivalent ontology of digital artifacts. MIS
+Quarterly, 37(2), 357-370.
+Kankanhalli, A., Ye, H. J., & Teo, H. H. (2015).
+Comparing potential and actual innovators: an
+empirical study of mobile data services
+innovation. MIS Quarterly, 39(3), 667-682.
+Kapoor, R., & Agarwal, S. (2017). Sustaining superior
+performance in business ecosystems: Evidence
+from application software developers in the iOS
+and
+Android
+smartphone
+ecosystems.
+Organization Science, 28(3), 531-551.
+
+Gulati, R., Lawrence, P. R., & Puranam, P. (2005).
+Adaptation in vertical relationships: beyond
+incentive conflict. Strategic Management
+Journal, 26(5), 415-440.
+
+Karimi, J., & Walter, Z. (2015). The role of dynamic
+capabilities in responding to digital disruption: A
+factor-based study of the newspaper industry.
+Journal of Management Information Systems,
+32(1), 39-81.
+
+Gulati, R., Puranam, P., & Tushman, M. (2012). Metaorganization design: Rethinking design in
+interorganizational and community contexts.
+Strategic Management Journal, 33(6), 571-586.
+
+Katz, M. L., & Shapiro, C. (1994). systems competition
+and network effects. Journal of Economic
+Perspectives, 8(2), 93-115.
+
+Hagiu, A. (2006). Pricing and commitment by two-sided
+platforms. RAND Journal of Economics, 37(3),
+720-737.
+
+Khanna, T., Gulati, R., & Nohria, N. (1998). The
+dynamics of learning alliances: competition,
+cooperation, and relative scope. Strategic
+Management Journal, 19(3), 193-210.
+
+Hagiu, A. (2009). Two-sided platforms: Product variety
+and pricing strategies. Journal of Economics and
+Management Strategy, 18(4), 1011-1043.
+Hagiu, A., & Spulber, D. (2013). First-party content and
+coordination in two-sided markets. Management
+Science, 59(4), 933-949.
+Hagiu, A., & Wright, J. (2015). Multi-sided platforms.
+International Journal of Industrial Organization,
+43, 162-174.
+Huang, P., Ceccagnoli, M., Forman, C., & Wu, D. J.
+(2013). Appropriability mechanisms and the
+platform partnership decision: Evidence from
+enterprise software. Management Science, 59(1),
+102-121.
+
+1546
+
+Kim, H. J., Kim, I., & Lee, H. (2016). Third-party mobile
+app developers’ continued participation in
+platform-centric ecosystems: an empirical
+investigation of two different mechanisms.
+International
+Journal
+of
+Information
+Management, 36(1), 44-59.
+Kim, J.-H., Prince, J., & Qiu, C. (2014). Indirect network
+effects and the quality dimension: A look at the
+gaming industry. International Journal of
+Industrial Organization, 37, 99-108.
+Kirsch, L. J. (1997). Portfolios of control modes and IS
+project management. Information Systems
+Research, 8(3), 215-239.
+
+The Building Blocks of Software Platforms
+
+Koh, T. K., & Fitchman, M. (2014). multihoming users’
+preferences for two-sided exchange networks.
+MIS Quarterly, 38(4), 977-996.
+
+search matching: Two-sided recommender
+systems on digital platforms. MIS Quarterly,
+44(1a), 48-84.
+
+Lahiri, A., Dewan, R. M., & Freimer, M. (2010). The
+disruptive effect of open platforms on markets for
+wireless services. Journal of Management
+Information Systems, 27(3), 81-110.
+
+Malone, T. W., & Crowston, K. (1994). The
+interdisciplinary study of coordination. ACM
+Computing Surveys, 26(1), 87-119.
+
+Landsman, V., & Stremersch, S. (2011). Multihoming in
+two-sided markets: An empirical inquiry in the
+video game console industry. Journal of
+Marketing, 75(6), 39-54.
+Law, K. S., Wong, C.-S., & Mobley, W. H. (1998).
+Toward a taxonomy of multidimensional
+constructs. Academy of Management Review,
+23(4), 741-755.
+Lee, C., Lee, D., & Hwang, J. (2015). Platform openness
+and the productivity of content providers: A metafrontier analysis. Telecommunications Policy,
+39(7), 553-562.
+Lee, G., & Raghu, T. S. (2014). Determinants of mobile
+apps’ success: Evidence from the app store
+market. Journal of Management Information
+Systems, 31(2), 133-170.
+Leidner, D. E. (2018). Review and theory symbiosis: An
+introspective retrospective. Journal of the
+Association for Information Systems, 19(6), 552567.
+Leidner, D. E., & Kayworth, T. (2006). A review of
+culture in information systems research: Toward a
+theory of information technology culture conflict.
+MIS Quarterly, 30(2), 357-399.
+Leong, C., Pan, S., Leidner, D. E., & Huang, J. S. (2019).
+Platform leadership: Managing boundaries for the
+network growth of the digital platforms. Journal
+of the Association for Information Systems, 20(7),
+953-987.
+Li, H., Zhang, C., & Kettinger, W. J. (in press). Digital
+platform ecosystem dynamics: The roles of
+product scope, innovation, and collaborative
+network centrality. MIS Quarterly.
+Lieberman, M. B., & Montgomery, D. B. (1988). Firstmover advantages. Strategic Management
+Journal, 9(S1), 41-58.
+Liebeskind, J. P. (1997). Keeping organizational secrets:
+Protective institutional mechanisms and their
+costs. Industrial and Corporate Change, 6(3),
+623-663.
+
+Mantovani, A., & Ruiz-Aliseda, F. (2016). Equilibrium
+innovation ecosystems: The dark side of
+collaborating with complementors. Management
+Science, 62(2), 534-549.
+March, J. G. (1991). Exploration and exploitation in
+organizational learning. Organization Science,
+2(1), 71-87.
+March, J. G., & Simon, H. A. (1958). Organization.
+Wiley.
+Markus, M. L., & Loebbecke, C. (2013). Commoditized
+digital processes and business community
+platforms: New opportunities and challenges for
+digital business strategies. MIS Quarterly, 37(2),
+649-653.
+McIntyre, D. P., & Srinivasan, A. (2017). networks,
+platforms, and strategy: Emerging views and next
+steps. Strategic Management Journal, 38(1), 141160.
+Mendling, J., Pentland, B. T., & Recker, J. (2020).
+Building a complementary agenda for business
+process management and digital innovation.
+European Journal of Information Systems, 29(3),
+208-219.
+Montealegre, R., Iyengar, K., & Sweeney, J. (2019).
+Understanding
+ambidexterity:
+Managing
+contradictory tensions between exploration and
+exploitation in the evolution of digital
+infrastructure. Journal of the Association for
+Information Systems, 20(5), 647-680.
+Montgomery, A. L., Hosanagar, K., Krishnan, R., &
+Clay, K. B. (2004). Designing a better shopbot.
+Management Science, 50(2), 189-206.
+Morgeson, F. P., Mitchell, T. R., & Liu, D. (2015). Event
+system theory: An event-oriented approach to the
+organizational sciences. Academy of Management
+Review, 40(4), 515-537.
+Mowery, D. C., Oxley, J. E., & Silverman, B. S. (1996).
+Strategic alliances and interfirm knowledge
+transfer. Strategic Management Journal, 17(S2),
+77-91.
+
+Lin, M., Li, S., & Whinston, A. B. (2011). Innovation and
+price competition in a two-sided market. Journal of
+Management Information Systems, 28(2), 171-202.
+
+Msiska, B., & Nielsen, P. (2018). Innovation in the
+fringes of software ecosystems: The role of sociotechnical generativity. Information Technology
+for Development, 24(2), 398-421.
+
+Malgonde, O., Zhang, H., Padmanabhan, B., &
+Limayem, M. (2020). Taming complexity in
+
+Nambisan, S. (2017). Digital entrepreneurship: Toward a
+digital
+technology
+perspective
+of
+
+1547
+
+Journal of the Association for Information Systems
+
+entrepreneurship. Entrepreneurship Theory and
+Practice, 41(6), 1029-1055.
+Niculescu, M. F., Wu, D. J., & Xu, L. (2018). Strategic
+intellectual property sharing: Competition on an
+open technology platform under network effects.
+Information Systems Research, 29(2), 498-519.
+Nielsen, P., & Aanestad, M. (2006). Control devolution
+as information infrastructure design strategy: A
+case study of a content service platform for mobile
+phones in Norway. Journal of Information
+Technology, 21(3), 185-194.
+Oh, J., Koh, B., & Raghunathan, S. (2015). Value
+appropriation between the platform provider and
+app developers in mobile platform mediated
+networks. Journal of Information Technology,
+30(3), 245-259.
+Ondrus, J., Gannamaneni, A., & Lyytinen, K. (2015). The
+impact of openness on the market potential of
+multi-sided platforms: A case study of mobile
+payment platforms. Journal of Information
+Technology, 30(3), 260-275.
+Ozalp, H., Cennamo, C., & Gawer, A. (2018). Disruption
+in platform-based ecosystems. Journal of
+Management Studies, 55(7), 1203-1241.
+Park, Y., Fiss, P. C., & El Sawy, O. (2020). Theorizing
+the multiplicity of digital phenomena: The
+ecology of configurations, causal recipes, and
+guidelines for applying QCA. MIS Quarterly,
+44(4), 1493-1520.
+Park, Y., & Mithas, S. (2020). Organized complexity of
+digital business strategy: A configurational
+perspective. MIS Quarterly, 44(1), 85-127.
+Parker, G., & Van Alstyne, M. (2018). Innovation,
+openness, and platform control. Management
+Science, 64(7), 3015-3032.
+Parker, G., Van Alstyne, M., & Jiang, X. (2017). Platform
+ecosystems: How developers invert the firm. MIS
+Quarterly, 41(1), 255-266.
+Parker, G., & Van Alstyne, M. W. (2005). Two-sided
+network effects: A theory of information product
+design. Management Science, 51(10), 1494-1504.
+Pavlou, P. A., & El Sawy, O. A. (2010). The “third hand”:
+IT-enabled competitive advantage in turbulence
+through improvisational capabilities. Information
+Systems Research, 21(3), 443-471.
+Pervin, N., Ramasubbu, N., & Dutta, K. (2019). Habitat
+traps in mobile platform ecosystems. Production
+and Operations Management, 28(10), 2594-2608.
+Qiu, Y., Gopal, A., & Hann, I.-H. (2017). Logic pluralism
+in mobile platform ecosystems: A study of indie
+app developers on the iOS app store. Information
+Systems Research, 28(2), 225-249.
+
+1548
+
+Rai, A., Constantinides, P., & Sarker, S. (2019). Nextgeneration digital platforms: toward human-AI
+hybrids. MIS Quarterly, 43(1), iii-ix.
+Rietveld, J., & Eggers, J. P. (2018). Demand
+heterogeneity in platform markets: implications
+for complementors. Organization Science, 29(2),
+304-322.
+Rietveld, J., Schilling, M. A., & Bellavitis, C. (2019).
+Platform strategy: Managing ecosystem value
+through selective promotion of complements.
+Organization Science, 30(6), 1232-1251.
+Rochet, J. C., & Tirole, J. (2006). Two-sided markets: A
+progress report. RAND Journal of Economics,
+37(3), 645-667.
+Roma, P., & Vasi, M. (2019). Diversification and
+performance in the mobile app market: The role
+of the platform ecosystem. Technological
+Forecasting and Social Change, 147, 123-139.
+Rothaermel, F. T., & Hill, C. W. L. (2005). Technological
+discontinuities and complementary assets: A
+longitudinal study of industry and firm
+performance. Organization Science, 16(1), 52-70.
+Sabherwal, R., & Robey, D. (1993). An empirical
+taxonomy of implementation processes based on
+sequences of events in information system
+development. Organization Science, 4(4), 548576.
+Selander, L., Henfridsson, O., & Svahn, F. (2013).
+Capability search and redeem across digital
+ecosystems. Journal of Information Technology,
+28(3), 183-197.
+Shapiro, C., & Varian, H. R. (1998). Information rules: A
+strategic guide to the network economy. Harvard
+Business School Press.
+Simon, G. A. (1962). The architecture of complexity.
+Proceedings of the American Philosophical
+Society, 106(6), 467-482.
+Simon, H. A. (1996). The Sciences of the Artificial. MIT
+Press.
+Singh, R., Mathiassen, L., & Mishra, A. (2015).
+Organizational path constitution in technological
+innovation: Evidence from rural telehealth. MIS
+Quarterly, 39(3), 643-665.
+Soh, C., Markus, M. L., & Goh, K. H. (2006). Electronic
+marketplaces and price transparency: Strategy,
+information technology, and success. MIS
+Quarterly, 30(3), 705-723.
+Song, P., Xue, L., Rai, A., & Zhang, C. (2018). The
+ecosystem of software platform: a study of
+asymmetric cross-side network effects and
+platform governance. MIS Quarterly, 42(1), 121142.
+
+The Building Blocks of Software Platforms
+
+Tanriverdi̇ , H. n., & Lee, C.-H. (2008). Within-industry
+diversification and firm performance in the
+presence of network externalities: evidence from
+the software industry. Academy of Management
+Journal, 51(2), 381-397.
+Teece, D. J. (1986). Profiting from technological
+innovation: implications for integration,
+collaboration, licensing, and public policy.
+Research Policy, 15(6), 285-305.
+Thomas, L. D. W., Autio, E., & Gann, D. M. (2015).
+Architectural leverage: Putting platforms in
+context. Academy of Management Perspectives,
+28(2), 46-67.
+Tilson, D., Lyytinen, K., & Sørensen, C. (2010). Digital
+infrastructures: The missing IS research agenda.
+Information Systems Research, 21(4), 748-759.
+Tiwana, A. (2009). Governance-knowledge fit in systems
+development projects. Information Systems
+Research, 20(2), 180-197.
+
+and knowledge acquisition.
+Science, 24(2), 319 - 338.
+
+Organization
+
+Venkatraman, N., & Lee, C.-H. (2004). Preferential
+linkage and network evolution: a conceptual
+model and empirical test in the U.S. video game
+sector. Academy of Management Journal, 47(6),
+876-892.
+Wang, P., Lee, M., Meng, X., & Butler, B. S. (2016).
+Toward an ecology theory of creativity in IT
+products: A study of mobile device industry. Paper
+presented at the 37th International Conference on
+Information Systems, Dublin, Ireland.
+Wareham, J., Fox, P. B., & Giner, J. L. C. (2014).
+Technology ecosystem governance. Organization
+Science, 25(4), 1195-1215.
+Webster, J., & Watson, R. T. (2002). Analyzing the past
+to prepare for the future: Writing a literature
+review. MIS Quarterly, 26(2), xiii-xxiii.
+
+Tiwana, A. (2015a). Evolutionary competition in
+platform ecosystems. Information Systems
+Research, 26(2), 266-281.
+
+Wen, W., & Zhu, F. (2019). Threat of platform-owner
+entry and complementor responses: Evidence
+from the mobile app market. Strategic
+Management Journal, 40(9), 1336-1367.
+
+Tiwana, A. (2015b). Platform desertion by app
+developers. Journal of Management Information
+Systems, 32(4), 40-77.
+
+Woodman, R. W., Sawyer, J. E., & Griffin, R. W. (1993).
+Toward a theory of organizational creativity.
+Academy of Management Review, 18(2), 293-321.
+
+Tiwana, A. (2018). Platform synergy: Architectural
+origins
+and
+competitive
+consequences.
+Information Systems Research, 29(4), 829-848.
+
+Xue, L., Song, P., Rai, A., Zhang, C., & Zhao, X. (2019).
+Implications of application programming
+interfaces for third‐party new app development
+and copycatting. Production and Operations
+Management, 28(8), 1887-1902.
+
+Tiwana, A., Konsynski, B., & Bush, A. A. (2010).
+Platform evolution: Coevolution of platform
+architecture, governance, and environmental
+dynamics. Information Systems Research, 21(4),
+675-687.
+Uzzi, B. (1997). Social structure and competition in
+interfirm
+networks:
+The
+paradox
+of
+embeddedness. Administrative Science Quarterly,
+42(1), 35-67.
+Van Alstyne, M., Parker, G. G., & Choudary, S. P.
+(2016). Pipeline, platforms, and the new rules of
+strategy. Harvard Business Review, 94(4), 54-62.
+van Angeren, J., Alves, C., & Jansen, S. (2016). Can We
+ask you to collaborate? Analyzing app developer
+relationships in commercial platform ecosystems.
+Journal of Systems and Software, 113, 430-445.
+van de Ven, A. H. (1992). Suggestions for studying
+strategy process: A research note. Strategic
+Management Journal, 13(S1), 169-188.
+Vasudeva, G., Spencer, J. W., & Teegen, H. J. (2013).
+Bringing the institutional context back in: a crossnational comparison of alliance partner selection
+
+Ye, H. J., & Kankanhalli, A. (2018). User service
+innovation on mobile phone platforms:
+Investigating impacts of lead userness, toolkit
+support, and design autonomy. MIS Quarterly,
+42(1), 165-187.
+Yoo, Y., Henfridsson, O., & Lyytinen, K. (2010). The
+new organizing logic of digital innovation: An
+Agenda for information systems research.
+Information Systems Research, 21(4), 724-735.
+Zhao, E. Y., Ishihara, M., Jennings, P. D., & Lounsbury,
+M. (2018). Optimal distinctiveness in the console
+video game industry: An exemplar-based model
+of proto-category evolution. Organization
+Science, 29(4), 588-611.
+Zhou, G., & Song, P. (2018). Third-party apps (TPAs)
+and software platform performance: The
+moderating role of competitive entry. Information
+& Management, 55(7), 801-911.
+Zhu, F., & Iansiti, M. (2012). Entry into platform-based
+markets. Strategic Management Journal, 33(1),
+88-106.
+
+1549
+
+Journal of the Association for Information Systems
+
+Appendix A: Methodology
+Figure A1 graphically presents this review’s analytical procedure and the organizing logic of the paper. We start our
+study by collecting and coding software platform literature. The coded articles following the coding template serve as
+our “data” for framework synthesis and extension.
+
+Note: The arrows indicate the outputs from the earlier stage used to derive the later stage outcomes. All later sections are built upon earlier
+sections in the article.
+
+Figure A1. Analytical Procedure and Flow of the Paper
+Literature Search and Selection: We included both empirical and conceptual studies. For empirical research, we
+limited our initial sample of studies to those examining platform owners’ and complementors’ performance and
+strategies as well as complementors’ participation (and continued participation) decisions in the context of software
+platforms. The performance of software platform owners and complementors comprises operational and financial,
+innovation, and environmental fitness impacts. We identified key frameworks, research commentary, editorial
+comments, issues and opinions, and RTD manuscripts related to all types of platforms and ecosystems to broaden our
+understanding of the phenomenon for conceptual articles.
+The literature on software platforms is interdisciplinary. Following the methodology suggested by Webster & Watson
+(2002), we performed a literature search spanning disciplines, including IS, IO economics, strategic management,
+marketing, and operations management. Several approaches were used to search and select relevant studies. First, we
+searched in selected top-tier journals (i.e., those that appear in AIS Basket of Eight, UTD 24, and FT 50 lists) using the
+keywords of “platform,” “platform ecosystem,” and “software ecosystem.” We then looked through the references of
+the key articles to identify any overlooked references. We then performed a search using the same keywords on
+multiple databases, including Google Scholar, INFORMS, Science Direct (Elsevier), Taylor & Francis Online,
+SpringerLink, and Business Source Premier, to collect related articles published in other journals. In total, we selected
+104 articles from 37 different journals (see Table A1 for the detailed distribution).
+
+1550
+
+Journal of the Association for Information Systems
+
+Table A1. Journal Articles Analyzed
+Journal
+Academy of Management Journal
+Academy of Management Perspectives
+Business & Information Systems Engineering
+Decision Support Systems
+Entrepreneurship Theory and Practice
+IEEE Transactions on Engineering Management
+Information & Management
+Information Systems Journal
+Information Systems Research
+Information Technology & People
+Information Technology for Development
+International Journal of Industrial Organization
+International Journal of Information Management
+Journal of Business Research
+Journal of Information Technology
+Journal of Management
+Journal of Management Information Systems
+Journal of Management Studies
+Journal of Marketing
+Journal of Organizational Computing and Electronic Commerce
+Journal of Product Innovation Management
+Journal of the Association for Information Systems
+Management Science
+MIS Quarterly
+Organization Science
+Production and Operations Management
+RAND Journal of Economics
+Research Policy
+Strategic Entrepreneurship Journal
+Strategic Management Journal
+Sustainability
+Technological Forecasting & Social Change
+Technovation
+Telecommunications Policy
+Telematics and Informatics
+The Journal of Industrial Economics
+The Journal of Systems and Software
+Total
+
+Number of Articles
+3
+1
+1
+1
+1
+1
+2
+4
+13
+1
+1
+3
+2
+2
+6
+2
+5
+1
+1
+1
+2
+1
+7
+8
+7
+3
+1
+3
+1
+8
+1
+3
+1
+3
+1
+1
+1
+104
+
+Literature Analysis: We followed the seminal works of RTD research (e.g., Leidner & Kayworth, 2006; Webster &
+Watson, 2002) to analyze the collected articles. For each empirical paper, we initially created a summary of its method,
+platform context, levels of analysis, dependent variables, independent variables, theory or theoretical perspectives, and
+key findings. Conceptual articles were reviewed to summarize the following information: research focus, method, level
+of analysis, theoretical perspectives, and deliverables. These two summaries served as the basis for our subsequent
+analysis. The method of synthesis and extension, as summarized in Figure 1, is given as:
+1.
+2.
+
+3.
+
+Synthesizing theoretical perspectives: We synthesized the “theory or theoretical perspectives” of empirical
+articles and the “theoretical perspectives” of conceptual articles.
+Identifying software platform characteristics: Conceptualized from the different theoretical perspectives, we
+summarized how software platforms differ from other business contexts and, in doing so, identified three
+significant aspects of software platforms.
+Conceptualizing capability matrices: In our conceptualization of capability metrics, we first recorded the full
+list of independent variables that affect software platform owners’ and complementors’ performance along with
+the theorized mechanisms. Then, we categorized these variables based on similar theoretical mechanisms or
+perspectives. We went through an iterative process where we followed a circular sequence of activities—i.e.,
+independently performing the task, collaboratively developing the coding schema, comparing the categorization,
+and resolving any disagreement. Table A2 presents the grouping of investigated variables into different
+dimensions of platform and complementary capabilities.
+
+1551
+
+Journal of the Association for Information Systems
+
+4.
+
+5.
+
+Delineating nomological networks: We synthesized the dynamics of platform capabilities, complementary
+capabilities, ecosystem environments, and performance by iteratively and jointly abstracting the relationships
+between variables examined in prior literature (i.e., dependent variables, independent variables, and key
+findings).
+Developing future research guidelines: To identify future research opportunities, we first analyzed and
+identified gaps within each area of the emergent framework. Then, we extended the context boundary to other
+emerging software platforms—i.e., open source software platforms or entrepreneurial software platforms and AIplatform integration. Specifically, we synthesized the software platform contexts studied in prior literature. Table
+A3 summarizes different types of software platforms, along with their owners and complementors.
+Table A2. Development of Platform and Complementary Capabilities
+
+Constructs
+
+Illustrative variables from related literature
+Platform capabilities
+
+Intermediarity
+
+•
+•
+•
+
+•
+•
+•
+
+•
+•
+•
+•
+•
+•
+Generativity
+
+•
+•
+•
+•
+•
+
+1552
+
+Platform investments (or platform quality): superior performance is a selling point for end-users,
+but the increased technological complexity increases complementors’ efforts and costs (Anderson
+et al., 2014; Zhu & Iansiti, 2012).
+Motivating complementors: signaling and reputational motivations drive the investments and
+development activities of complementors (Boudreau & Jeppesen, 2015).
+New generation platform technologies: introducing next-generation platform technologies with
+enhanced capabilities increases complementors’ development challenges and learning curves,
+therefore increasing complementors’ possibly moving to less-challenging platforms (Ozalp et al.,
+2018).
+Combination of WTA strategies: simultaneously pursuing the same intense distinct WTA strategies
+may trigger conflicting incentives for complementors (Cennamo & Santalo, 2013).
+Platform positioning: differentiate using distinct positioning instead of focusing on space with the
+largest number of consumers is more beneficial (Cennamo & Santalo, 2013).
+App nonexclusivity (or multihoming): non-exclusive apps allow complementors to reach a broader
+market than a single platform’s install base; and trigger indirect network effects between users of
+competing and incompatible hardware platforms (Corts & Lederman, 2009; Landsman &
+Stremersch, 2011).
+Pricing: platform owners can facilitate network effects through discriminate and strategic pricing
+toward direct users and complementors (Clements & Ohashi, 2005; Economides & Katsamakas,
+2006; Lahiri et al., 2010; Lin et al., 2011).
+Revenue-sharing rules: revenue-sharing between a platform owner and complementors affects retail
+prices and complementor participation (Foros et al., 2017).
+Levels of information (or transparency): different levels of information on users and complementors
+affect matching and platform profits (Hagiu & Halaburda, 2014).
+Toolkit support: toolkit helps complementors better identify market needs and develop products that
+satisfy user preferences (Kankanhalli et al., 2015; Ye & Kankanhalli, 2018).
+App quality: the effects of user install base on the number of complementors are stronger for middlequality apps, while the impacts of app variety on user utility will be stronger for high-quality apps
+(Kim et al., 2014).
+App Review: long app review time will weaken the long-term cross-network effects from users to
+complementors (Song et al., 2018).
+Number of complementors: the virtually infinite expanse of possibilities allows for ever-expanding
+variety; the low tendency of consolidation exists in a weak selection environment (Boudreau, 2012;
+Parker et al., 2017).
+Strategically adding complementors: the increase of differentiated complementors raises
+complementors’ investment incentives while adding complementors to already-served app areas
+crowds out complementors’ innovation incentives (Boudreau, 2012).
+Platform owner entry (or first-party content, or competitive entry): platform owner entry (or other
+types of competitive entry) poses a competitive threat and pushes complementors engaging in
+innovation outputs (Foerderer et al., 2018; Hagiu & Spulber, 2013; Zhou & Song, 2018).
+Distributed tuning: the evolution of boundary resources involves cascading actions of
+accommodations and rejections of interconnected actors and artifacts (Eaton et al., 2015).
+Platform envelopment: a multiplatform bundle through envelopment can leverage shared user
+relationships to offer revolutionary functionality (Eisenmann et al., 2011).
+
+Journal of the Association for Information Systems
+
+•
+•
+•
+•
+•
+•
+•
+•
+Ambidexterity
+
+•
+•
+•
+
+•
+•
+•
+
+•
+•
+
+Resourcing: the process that describes how the diversity and scope of a software platform are
+enhanced by boundary resources (Ghazawneh & Henfridsson, 2013).
+Ecosystem complexity: the increase of ecosystem complexity directly affects complementors’
+internal complexity concerning their innovation decisions (Kapoor & Agarwal, 2017).
+Platform updates and generational transitions: the transition of new generations or platform updates
+introduces new market opportunities for complementors and increases competitive dynamics
+(Kapoor & Agarwal, 2017; Song et al., 2018).
+Platform openness: open platforms not only trigger innovation but also transfer risks to
+complementors and facilitate competitive dynamics (Boudreau, 2010; Lee et al., 2015; Ondrus et
+al., 2015; Parker & Van Alstyne, 2018; Parker et al., 2017).
+Intellectual property sharing: opening a proprietary technology platform allows and facilitates sameside co-opetition in a market with network effects (Niculescu et al., 2018).
+Architectural leverage: platform owners can achieve ecosystem-specific benefits by combining
+different levels of architectural openness with three types of leverages—production, innovation, and
+transactional leverage (Thomas et al., 2015).
+Platform architecture: platform architecture, such as decomposition, design rules, and modularity,
+measures how the ecosystem is partitioned into a platform and a set of complementary modules that
+are decoupled and can be resembled (Tiwana et al., 2010).
+Layered modular architecture: the hybrid between modularity and layered architecture adds
+generativity to the platform ecosystem (Yoo et al., 2010).
+Relinquishing control: granting complementors permissions to use the platform while ensuring
+interoperability with the platform and with each other (Boudreau, 2010; Parker & Van Alstyne,
+2018).
+Securing: the process of control over the focal platform and its related products and services is
+increased (Ghazawneh & Henfridsson, 2013).
+Ecosystem-wide governance rules: ecosystem governance defines the ease of access to technical
+resources and market resourcing depending on partnership levels, which can help to solve salient
+tensions such as standard-variety, control-autonomy, and collective-individual (Huber et al., 2017;
+Wareham et al., 2014). Practicing ecosystem-wide governance rules includes passively executing
+rules, passively executing rules while emphasizing values, proactively enforcing rules, violating
+values by amending rules, and stretching rules while favoring values (Huber et al., 2017).
+Managing platform forking: a forker can exploit the platform’s boundary resources and
+complements to create a competing platform business. Platforms should strategically curb such
+exploitation and retain control (Karhu et al., 2018).
+Boundary knowledge: the tradeoff of providing knowledge at the right scope and scale while
+allowing for knowledge scalability across the entire ecosystem (Foerderer et al., 2019).
+Incompatibility and exclusivity: third-party complementors can improve innovation but may not
+translate into greater value when the market reaches saturation (i.e., known as a prisoner’s dilemma).
+Incompatibility and exclusivity with complementors may be ways to solve the dilemma (Mantovani
+& Ruiz-Aliseda, 2016).
+Platform governance: it describes who makes what decisions about a platform. Governance
+practices such as input control, decision rights partitioning, and ownership affect the platform
+owner’s abilities to retain sufficient control (Tiwana et al., 2010; Tiwana, 2015a; 2015b).
+Selective promotion: platform owners can selectively promote complementary apps to address the
+trade-off in platform ecosystem value (Rietveld et al., 2019).
+Complementary capabilities
+
+Creativity
+
+•
+•
+•
+•
+•
+
+Narrowed and specialized product scope: complementors’ product scope tends to remain narrow
+and specialized because of the diseconomies of scope (Boudreau, 2012).
+Optimal distinctiveness: complementors’ exemplar similarity positively affects their performance,
+while prototype similarity reduces their performance (Barlow et al., 2019).
+Institutional logic synthesis: complementors need to manage the inherent opposed, but coexisting,
+logics in their entrepreneurial activities—the logic of the profession and logic of the markets—to
+identify a market niche and achieve success (Qiu et al., 2017).
+Entry timing: the differences in user preferences between early adopters and late adopters affect
+complementors’ value creation and success (Rietveld & Eggers, 2018).
+Innovation capabilities: complementors’ capability of searching platform boundary resources and
+redeeming (i.e., developing, distributing, and monetizing) their products and services influence their
+performance (Selander et al., 2013).
+
+1553
+
+Journal of the Association for Information Systems
+
+•
+
+Interconnectivity
+
+•
+
+•
+•
+•
+
+•
+•
+•
+•
+•
+
+•
+
+Appropriability
+
+•
+•
+•
+
+Relation to venture capitals (VCs): the involvement of VCs reduces uncertainty and assimilate
+external knowledge, information, and resources (Breznitz et al., 2018).
+Relation to multiple platforms (multihoming): multihoming expands complementors’ market but
+may reduce differentiation among competing platforms; complementors can achieve balance by
+offering different quality levels across platforms (Cennamo et al., 2018; Landsman & Stremersch,
+2011; Tanriverdi & Lee, 2008; Venkatraman & Lee, 2004).
+Relation to external players: in-app purchase option increases app demand, while the in-app
+advertisement option decreases app demand (Ghose & Han, 2014).
+Relation to the platform (ecosystem experience): experience in a platform ecosystem increases
+complementors’ accumulation of knowledge and dynamic learning (Kapoor & Agarwal, 2017).
+Product scope or diversification: complementors’ number of categories, number of apps, and related
+diversification across market segments in their product portfolio can facilitate the scope of
+economics (Lee & Raghu, 2014; Roma & Vasi, 2019; Tanriverdi & Lee, 2008). However,
+diversification into similar apps, other platforms, and functional variants may result in substitutive
+effects on original apps, reducing sustainability (Pervin et al., 2019).
+Modularization: complementary apps’ modularity—the extent to which the apps are loosely coupled
+and interact with the focal platform through standardized interfaces—affects their abilities to
+evolve, coordination costs, and business value creation (Tiwana, 2015a; 2015b).
+Architectural near-decomposability: complementors’ independence from the platform and
+interdependencies within the app influences their capabilities of leveraging the platform’s
+capabilities (Tiwana, 2018).
+Coordination costs: complementors should spend efforts on managing dependencies with the
+platform, which affects their value creation (Tiwana, 2015b; Venkatraman & Lee, 2004).
+Platform Synergy: the extent to which complementors leverage the platform’s capabilities (Tiwana,
+2018).
+Connections to other complementors: a complementor’s collaborative relationships with their peers
+affect the ecosystems’ entry barriers and create value for complementors (van Angeren et al., 2016).
+Complementors’ structural network characteristics (i.e., size, density, and diversity) of inter-firm
+relationships affect their value. Such effects are different between legacy and cloud-native firms
+(Basole & Park, 2019).
+Intellectual property rights (IPRs): IPRs such as copyrights and patents help complementors to deter
+imitation and prevent entry once imitation occurred (Ceccagnoli et al., 2012; Huang et al., 2013).
+Downstream capabilities: help complementors better defend their “territory” (Ceccagnoli et al.,
+2012; Huang et al., 2013).
+Revenue-sharing rules: fair revenue-sharing rules promise the extent of complementors’ gains in
+proportion to their inputs (Foros et al., 2017; Kim et al., 2016; Oh et al., 2015).
+Innovation efforts adjustments: complementors can shift their innovation efforts categories after
+sensing threats to capture business value (Wen & Zhu, 2019).
+
+Table A3. Commonly Examined Software Platforms in Current Literature
+Example
+
+Software platform
+
+Platform owner
+
+Platform complementors
+
+Mobile platforms
+
+iOS, Android,
+Blackberry
+
+Providers of the mobile
+platform
+
+Mobile app developers
+
+Video game
+
+Nintendo Wii, PS3,
+Xbox 360
+
+Game consoles or provider of
+the platform
+
+Game developers or the providers of game
+titles
+
+Handheld computer
+devices
+
+Palm, Psion, Newton,
+Microsoft Mobile,
+PenRight, Magic Cap
+
+Providers of operating systems
+and hardware of handheld
+computers that open for
+complementary components
+
+Independent hardware developers that
+provide complementary innovations
+related to board-level electronics designs,
+industrial design, and enhanced
+integration
+
+Enterprise software
+
+SAP
+
+Providers of enterprise
+software such as SAP
+
+Independent software vendors who make
+their products compatible with or extend
+the platform functions
+
+Operating systems
+
+Microsoft, Linux
+
+Providers of the operating
+systems
+
+Add-on application providers
+
+Browser
+
+Firefox, Chrome,
+Internet Explorer
+
+Providers of the browser
+
+Developers of the add-on extensions
+
+1554
+
+Journal of the Association for Information Systems
+
+About the Authors
+He Li is an assistant professor of information systems in the Department of Management at the Wilbur O. and Ann
+Powers College of Business, Clemson University. His research focuses on organizational competitive strategies in ITenabled emerging contexts such as digital platform ecosystems, IT security management, and digital transformation.
+His research has been published or accepted in MIS Quarterly, Journal of Management Information Systems, and
+Journal of the Association for Information Systems, among other outlets. He holds a PhD in business information and
+technology from the University of Memphis and a bachelor’s in management from Southwestern University of Finance
+and Economics.
+William J. Kettinger is the William S. Lee Distinguished Professor of Information Systems at Clemson University.
+He previously served at the FedEx Chair of Excellence in MIS at the University of Memphis. Bill has published
+extensively, including four books, over 85 refereed journal articles in such journals as MIS Quarterly, Information
+Systems Research, Journal of the Association of the Information Systems, Journal of Management Information
+Systems, European Journal of Information Systems, Information Systems Journal, Decision Sciences, and Sloan
+Management Review. He currently serves as a senior editor at MISQ Executive, senior editor emeritus at MIS Quarterly
+and serves or has served as an associate editor of MIS Quarterly, Information Systems Research, and Journal of the
+Association of the Information Systems and has three times served as a special issue editor for Journal of Management
+Information Systems. His research interests include strategic information management, platforms and digital business
+strategy, IS security and service quality, IT and the supply chain, and process management.
+
+Copyright © 2021 by the Association for Information Systems. Permission to make digital or hard copies of all or part
+of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for
+profit or commercial advantage and that copies bear this notice and full citation on the first page. Copyright for
+components of this work owned by others than the Association for Information Systems must be honored. Abstracting
+with credit is permitted. To copy otherwise, to republish, to post on servers, or to redistribute to lists requires prior
+specific permission and/or fee. Request permission to publish from: AIS Administrative Office, P.O. Box 2712 Atlanta,
+GA, 30301-2712 Attn: Reprints, or via email from publications@aisnet.org.
+
+1555
+
+
